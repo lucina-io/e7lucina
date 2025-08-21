@@ -154,7 +154,7 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
   return (
     <section className="mt-8">
       <button
-        className="border px-2 py-1 rounded-sm cursor-pointer"
+        className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
         onClick={() => navigator.clipboard.writeText(discordText)}
       >
         Copy Text
