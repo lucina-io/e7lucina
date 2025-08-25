@@ -4,7 +4,7 @@ const exampleTeam = {
   thirdChar: { name: "", artifact: "", hp: "", sets: [], misc: "" },
 };
 
-export default function Report({ player, t1, t2 }) {
+export default function Report({ player, t1, t2, setT1, setT2 }) {
   const t1FirstCharName = t1.firstChar.name?.value;
   const t1FirstCharArtifact = t1.firstChar.artifact?.value;
   const t1FirstCharHP = t1.firstChar?.hp;
@@ -153,12 +153,23 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
 
   return (
     <section className="mt-8">
-      <button
-        className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
-        onClick={() => navigator.clipboard.writeText(discordText)}
-      >
-        Copy Text
-      </button>
+      <div className="flex gap-x-2">
+        <button
+          className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
+          onClick={() => navigator.clipboard.writeText(discordText)}
+        >
+          Copy Text
+        </button>
+        <button
+          className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
+          onClick={() => {
+            setT1(exampleTeam);
+            setT2(exampleTeam);
+          }}
+        >
+          Reset Form
+        </button>
+      </div>
       <textarea
         className="border w-full rounded-sm p-2 h-80 mt-4"
         value={discordText}

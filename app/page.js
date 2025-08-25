@@ -64,7 +64,9 @@ export default function Home() {
           <Character unit={3} info={t2} setInfo={setT2} />
         </>
       )}
-      {selected === "Report" && <Report t1={t1} t2={t2} player={tower} />}
+      {selected === "Report" && (
+        <Report t1={t1} t2={t2} player={tower} setT1={setT1} setT2={setT2} />
+      )}
     </main>
   );
 }
