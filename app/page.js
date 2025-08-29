@@ -65,7 +65,14 @@ export default function Home() {
         </>
       )}
       {selected === "Report" && (
-        <Report t1={t1} t2={t2} player={tower} setT1={setT1} setT2={setT2} />
+        <Report
+          t1={t1}
+          t2={t2}
+          player={tower}
+          setT1={setT1}
+          setT2={setT2}
+          setTower={setTower}
+        />
       )}
     </main>
   );

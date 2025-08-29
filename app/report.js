@@ -4,7 +4,7 @@ const exampleTeam = {
   thirdChar: { name: "", artifact: "", hp: "", sets: [], misc: "" },
 };
 
-export default function Report({ player, t1, t2, setT1, setT2 }) {
+export default function Report({ player, t1, t2, setT1, setT2, setTower }) {
   const t1FirstCharName = t1.firstChar.name?.value;
   const t1FirstCharArtifact = t1.firstChar.artifact?.value;
   const t1FirstCharHP = t1.firstChar?.hp;
@@ -165,6 +165,7 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
           onClick={() => {
             setT1(exampleTeam);
             setT2(exampleTeam);
+            setTower("");
           }}
         >
           Reset Form

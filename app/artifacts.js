@@ -488,6 +488,10 @@ const artifacts = [
     value: "Last Teatime",
   },
   {
+    labe: "Lethal Whispers",
+    value: "Lethal Whispers",
+  },
+  {
     label: "Love Potion",
     value: "Love Potion",
   },

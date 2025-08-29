@@ -1152,6 +1152,10 @@ const heroes = [
     value: "Serila",
   },
   {
+    label: "Setsuka",
+    value: "Setsuka",
+  },
+  {
     label: "Sez",
     value: "Sez",
   },
