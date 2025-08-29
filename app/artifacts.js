@@ -488,7 +488,7 @@ const artifacts = [
     value: "Last Teatime",
   },
   {
-    labe: "Lethal Whispers",
+    label: "Lethal Whispers",
     value: "Lethal Whispers",
   },
   {
