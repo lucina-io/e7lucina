@@ -1384,6 +1384,10 @@ const heroes = [
     value: "Witch of the Mere Tenebria",
   },
   {
+    label: "Wretched Rose",
+    value: "Wretched Rose",
+  },
+  {
     label: "Yoonryoung",
     value: "Yoonryoung",
   },
