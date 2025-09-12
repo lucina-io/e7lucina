@@ -524,6 +524,10 @@ const heroes = [
     value: "Fenris",
   },
   {
+    label: "Fern",
+    value: "Fern",
+  },
+  {
     label: "Festive Eda",
     value: "Festive Eda",
   },
@@ -542,6 +546,10 @@ const heroes = [
   {
     label: "Frida",
     value: "Frida",
+  },
+  {
+    label: "Frieren",
+    value: "Frieren",
   },
   {
     label: "Fumyr",
@@ -1230,6 +1238,10 @@ const heroes = [
   {
     label: "Spirit Eye Celine",
     value: "Spirit Eye Celine",
+  },
+  {
+    label: "Stark",
+    value: "Stark",
   },
   {
     label: "Straze",
