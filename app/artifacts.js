@@ -156,6 +156,10 @@ const artifacts = [
     value: "Broken Will of the Priest",
   },
   {
+    label: "Butterfly Hair Ornament",
+    value: "Butterfly Hair Ornament",
+  },
+  {
     label: "Butterfly Mandolin",
     value: "Butterfly Mandolin",
   },
@@ -464,6 +468,10 @@ const artifacts = [
     value: "Jack-O's Symbol",
   },
   {
+    label: "Jumbo Berry Special",
+    value: "Jumbo Berry Special",
+  },
+  {
     label: "Junkyard Dog",
     value: "Junkyard Dog",
   },
@@ -534,6 +542,10 @@ const artifacts = [
   {
     label: "Mighty Yaksha",
     value: "Mighty Yaksha",
+  },
+  {
+    label: "Mirrored Lotus Ring",
+    value: "Mirrored Lotus Ring",
   },
   {
     label: "Moonlight Dreamblade",
