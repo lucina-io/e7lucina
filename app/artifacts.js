@@ -524,6 +524,10 @@ const artifacts = [
     value: "Manica of Control",
   },
   {
+    label: "Master of the Nightmare",
+    value: "Master of the Nightmare",
+  },
+  {
     label: "Mature Sunglasses",
     value: "Mature Sunglasses",
   },
