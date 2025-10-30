@@ -92,6 +92,10 @@ const artifacts = [
     value: "Aurius",
   },
   {
+    label: "Awakened Leaf",
+    value: "Awakened Leaf",
+  },
+  {
     label: "Azure Comet",
     value: "Azure Comet",
   },

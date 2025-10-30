@@ -1128,6 +1128,10 @@ const heroes = [
     value: "Sage Baal & Sezan",
   },
   {
+    label: "Saria",
+    value: "Saria",
+  },
+  {
     label: "Savior Adin",
     value: "Savior Adin",
   },
