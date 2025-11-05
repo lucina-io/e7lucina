@@ -1140,6 +1140,10 @@ const heroes = [
     value: "Schniel",
   },
   {
+    label: "School Nurse Yulha",
+    value: "School Nurse Yulha",
+  },
+  {
     label: "Schuri",
     value: "Schuri",
   },
