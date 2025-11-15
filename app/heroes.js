@@ -1284,6 +1284,10 @@ const heroes = [
     value: "Sven",
   },
   {
+    label: "Swift Flagbearer Sigret",
+    value: "Swift Flagbearer Sigret",
+  },
+  {
     label: "Sylvan Sage Vivian",
     value: "Sylvan Sage Vivian",
   },

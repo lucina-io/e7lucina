@@ -380,6 +380,10 @@ const artifacts = [
     value: "Fullmetal's Automail",
   },
   {
+    value: "Glorious Flag",
+    label: "Glorious Flag",
+  },
+  {
     label: "Glo-Wings 21",
     value: "Glo-Wings 21",
   },
