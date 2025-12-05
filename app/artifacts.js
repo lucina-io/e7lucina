@@ -936,6 +936,10 @@ const artifacts = [
     value: "To a New World",
   },
   {
+    label: "Tome of Life's End",
+    value: "Tome of Life's End",
+  },
+  {
     label: "Torn Sleeve",
     value: "Torn Sleeve",
   },

@@ -616,6 +616,10 @@ const heroes = [
     value: "Hazel",
   },
   {
+    label: "Hecate",
+    value: "Hecate",
+  },
+  {
     label: "Helen",
     value: "Helen",
   },
@@ -1146,6 +1150,10 @@ const heroes = [
   {
     label: "Schuri",
     value: "Schuri",
+  },
+  {
+    label: "Sealed Eye Surin",
+    value: "Sealed Eye Surin",
   },
   {
     label: "Sea Phantom Politis",
