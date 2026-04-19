@@ -380,8 +380,16 @@ const artifacts = [
     value: "Fullmetal's Automail",
   },
   {
+    label: "Gifted Pen",
+    value: "Gifted Pen",
+  },
+  {
     value: "Glorious Flag",
     label: "Glorious Flag",
+  },
+  {
+    label: "Glorious Throne",
+    value: "Glorious Throne",
   },
   {
     label: "Glo-Wings 21",
@@ -688,6 +696,10 @@ const artifacts = [
     value: "Renewed Will",
   },
   {
+    label: "Ritual of Sealing Flames",
+    value: "Ritual of Sealing Flames",
+  },
+  {
     label: "Resolute Soldier Series",
     value: "Resolute Soldier Series",
   },
@@ -754,6 +766,10 @@ const artifacts = [
   {
     label: "Severed Horn Wand",
     value: "Severed Horn Wand",
+  },
+  {
+    label: "Shadow Winds 7",
+    value: "Shadow Winds 7",
   },
   {
     label: "Sharpshooter's Handgun",
@@ -986,6 +1002,10 @@ const artifacts = [
   {
     label: "Venus Orb",
     value: "Venus Orb",
+  },
+  {
+    label: "Veritas",
+    value: "Veritas",
   },
   {
     label: "Victorious Flag",
