@@ -153,7 +153,7 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
 
   return (
     <section className="mt-8">
-      <div className="flex gap-x-2">
+      <div className="flex flex-col sm:flex-row gap-2">
         <button
           className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
           onClick={() => navigator.clipboard.writeText(discordText)}
@@ -172,7 +172,7 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
         </button>
       </div>
       <textarea
-        className="border w-full rounded-sm p-2 h-80 mt-4"
+        className="border w-full rounded-sm p-2 h-64 sm:h-80 mt-4"
         value={discordText}
         readOnly
       />

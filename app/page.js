@@ -19,7 +19,7 @@ export default function Home() {
   const [t2, setT2] = useState(exampleTeam);
 
   return (
-    <main className="max-w-5xl mx-auto py-4">
+    <main className="max-w-5xl mx-auto px-2 sm:px-4 py-4">
       <section className="">
         <Form>
           <input

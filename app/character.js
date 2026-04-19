@@ -36,7 +36,7 @@ export default function Character({ unit, info, setInfo }) {
 
   return (
     <section className="pt-8">
-      <Form className="grid grid-cols-[1.5fr_1.5fr_1fr] gap-4">
+      <Form className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[1.5fr_1.5fr_1fr] gap-4">
         <Select
           options={heroes}
           className="text-black"
@@ -75,7 +75,7 @@ export default function Character({ unit, info, setInfo }) {
         <input
           type="text"
           placeholder="Extra info: EEs, high eff/er, etc."
-          className="border px-2 py-1 rounded-sm col-span-2"
+          className="border px-2 py-1 rounded-sm col-span-1 md:col-span-2"
           value={defaultMisc}
           onChange={(misc) => updateTeam("misc", misc.target.value)}
         />
