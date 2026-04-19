@@ -48,6 +48,10 @@ const heroes = [
     value: "Aither",
   },
   {
+    label: "Aki",
+    value: "Aki",
+  },
+  {
     label: "Albedo",
     value: "Albedo",
   },
@@ -916,6 +920,10 @@ const heroes = [
     value: "Mistychain",
   },
   {
+    label: "Monarch of the Sword Iseria",
+    value: "Monarch of the Sword Iseria",
+  },
+  {
     label: "Montmorancy",
     value: "Montmorancy",
   },
@@ -964,6 +972,10 @@ const heroes = [
     value: "New Moon Luna",
   },
   {
+    label: "Notos",
+    value: "Notos",
+  },
+  {
     label: "Ocean Breeze Luluca",
     value: "Ocean Breeze Luluca",
   },
@@ -998,6 +1010,10 @@ const heroes = [
   {
     label: "Penelope",
     value: "Penelope",
+  },
+  {
+    label: "Perfumer Byblis",
+    value: "Perfumer Byblis",
   },
   {
     label: "Pernilla",
@@ -1128,8 +1144,16 @@ const heroes = [
     value: "Ruele of Light",
   },
   {
+    label: "Ruiza",
+    value: "Ruiza",
+  },
+  {
     label: "Sage Baal & Sezan",
     value: "Sage Baal & Sezan",
+  },
+  {
+    label: "Salome",
+    value: "Salome",
   },
   {
     label: "Saria",
@@ -1202,6 +1226,10 @@ const heroes = [
   {
     label: "Shepherd Jena",
     value: "Shepherd Jena",
+  },
+  {
+    label: "Shepherd of the Dark Diene",
+    value: "Shepherd of the Dark Diene",
   },
   {
     label: "Shooting Star Achates",
@@ -1298,6 +1326,10 @@ const heroes = [
   {
     label: "Sylvan Sage Vivian",
     value: "Sylvan Sage Vivian",
+  },
+  {
+    label: "Tactical Archetype Coli",
+    value: "Tactical Archetype Coli",
   },
   {
     label: "Taeyou",
