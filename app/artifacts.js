@@ -1036,6 +1036,10 @@ const artifacts = [
     value: "Wings of Light and Shadow",
   },
   {
+    label: "With a Little Friend",
+    value: "With a Little Friend"
+  },
+  {
     label: "Wondrous Potion Vial",
     value: "Wondrous Potion Vial",
   },

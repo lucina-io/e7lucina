@@ -496,6 +496,10 @@ const heroes = [
     value: "Ervalen",
   },
   {
+    label: "Estelle",
+    value: "Estelle",
+  },
+  {
     label: "Eternal Wanderer Ludwig",
     value: "Eternal Wanderer Ludwig",
   },
