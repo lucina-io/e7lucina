@@ -4,6 +4,7 @@ import { useState } from "react";
 import Form from "next/form";
 import Character from "./character";
 import Report from "./report";
+import ScreenshotImport from "./screenshot-import";
 
 const stateOptions = ["T1", "T2", "Report"];
 const exampleTeam = {
@@ -30,6 +31,7 @@ export default function Home() {
           />
         </Form>
       </section>
+      <ScreenshotImport setT1={setT1} setT2={setT2} />
       <section className="pt-4">
         <ul className="flex border-b">
           {stateOptions.map((option) => (
