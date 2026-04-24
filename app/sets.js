@@ -4,8 +4,10 @@ const sets = [
   { label: "Injury", value: "Injury" },
   { label: "Lifesteal", value: "Lifesteal" },
   { label: "Protection", value: "Protection" },
+  { label: "Pursuit", value: "Pursuit" },
   { label: "Reversal", value: "Reversal" },
   { label: "Riposte", value: "Riposte" },
+  { label: "Warfare", value: "Warfare" },
 ];
 
 export default sets;
