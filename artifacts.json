@@ -1,0 +1,1614 @@
+{
+  "3f": {
+    "_id": "3f",
+    "id": "art0193",
+    "name": "3F",
+    "role": "knight"
+  },
+  "a-little-queens-huge-crown": {
+    "_id": "a-little-queens-huge-crown",
+    "id": "art0105",
+    "name": "A Little Queen's Huge Crown",
+    "role": "warrior"
+  },
+  "a-precious-connection": {
+    "_id": "a-precious-connection",
+    "id": "art0229",
+    "name": "A Precious Connection",
+    "role": "knight"
+  },
+  "a-symbol-of-unity": {
+    "_id": "a-symbol-of-unity",
+    "id": "art0121",
+    "name": "A Symbol of Unity"
+  },
+  "abyssal-crown": {
+    "_id": "abyssal-crown",
+    "id": "art5_5",
+    "name": "Abyssal Crown",
+    "role": "mage"
+  },
+  "airtosurface-missile-misha": {
+    "_id": "airtosurface-missile-misha",
+    "id": "art0124",
+    "name": "Air-to-Surface Missile: MISHA",
+    "role": "ranger"
+  },
+  "alabastron": {
+    "_id": "alabastron",
+    "id": "art0089",
+    "name": "Alabastron",
+    "role": "assassin"
+  },
+  "alencinoxs-wrath": {
+    "_id": "alencinoxs-wrath",
+    "id": "art0082",
+    "name": "Alencinox's Wrath",
+    "role": "warrior"
+  },
+  "alexas-basket": {
+    "_id": "alexas-basket",
+    "id": "art0036",
+    "name": "Alexa's Basket",
+    "role": "assassin"
+  },
+  "an-assassins-pledge": {
+    "_id": "an-assassins-pledge",
+    "id": "art0218",
+    "name": "An Assassin's Pledge",
+    "role": "ranger"
+  },
+  "an-offer-you-cant-refuse": {
+    "_id": "an-offer-you-cant-refuse",
+    "id": "art0178",
+    "name": "An Offer You Can't Refuse",
+    "role": "ranger"
+  },
+  "ancient-dragons-legacy": {
+    "_id": "ancient-dragons-legacy",
+    "id": "art0122",
+    "name": "Ancient Dragon's Legacy",
+    "role": "knight"
+  },
+  "antimagic-mask": {
+    "_id": "antimagic-mask",
+    "id": "art0139",
+    "name": "Anti-Magic Mask",
+    "role": "warrior"
+  },
+  "awakened-leaf": {
+    "_id": "awakened-leaf",
+    "id": "art0230",
+    "name": "Awakened Leaf"
+  },
+  "azure-comet": {
+    "_id": "azure-comet",
+    "id": "art0131",
+    "name": "Azure Comet",
+    "role": "warrior"
+  },
+  "bastion-of-hope": {
+    "_id": "bastion-of-hope",
+    "id": "art0145",
+    "name": "Bastion of Hope"
+  },
+  "bastion-of-perlutia": {
+    "_id": "bastion-of-perlutia",
+    "id": "art0067",
+    "name": "Bastion of Perlutia",
+    "role": "knight"
+  },
+  "beguiling-wings": {
+    "_id": "beguiling-wings",
+    "id": "art0192",
+    "name": "Beguiling Wings",
+    "role": "assassin"
+  },
+  "benimarus-tachi": {
+    "_id": "benimarus-tachi",
+    "id": "art0180",
+    "name": "Benimaru's Tachi",
+    "role": "warrior"
+  },
+  "birdseye-view": {
+    "_id": "birdseye-view",
+    "id": "art0201",
+    "name": "Bird's-Eye View",
+    "role": "manauser"
+  },
+  "black-hand-of-the-goddess": {
+    "_id": "black-hand-of-the-goddess",
+    "id": "art0088",
+    "name": "Black Hand of the Goddess",
+    "role": "mage"
+  },
+  "bloodstone": {
+    "_id": "bloodstone",
+    "id": "art4_17",
+    "name": "Bloodstone",
+    "role": "ranger"
+  },
+  "bloody-rose": {
+    "_id": "bloody-rose",
+    "id": "art0069",
+    "name": "Bloody Rose",
+    "role": "mage"
+  },
+  "border-coin": {
+    "_id": "border-coin",
+    "id": "art0044",
+    "name": "Border Coin",
+    "role": "warrior"
+  },
+  "broken-will-of-the-priest": {
+    "_id": "broken-will-of-the-priest",
+    "id": "art0185",
+    "name": "Broken Will of the Priest",
+    "role": "knight"
+  },
+  "butterfly-hair-ornament": {
+    "_id": "butterfly-hair-ornament",
+    "id": "art0226",
+    "name": "Butterfly Hair Ornament",
+    "role": "mage"
+  },
+  "celestine": {
+    "_id": "celestine",
+    "id": "art0032",
+    "name": "Celestine",
+    "role": "manauser"
+  },
+  "champions-trophy": {
+    "_id": "champions-trophy",
+    "id": "art0098",
+    "name": "Champion's Trophy",
+    "role": "warrior"
+  },
+  "chatty": {
+    "_id": "chatty",
+    "id": "art0029",
+    "name": "Chatty",
+    "role": "mage"
+  },
+  "circus-fantasia": {
+    "_id": "circus-fantasia",
+    "id": "art0100",
+    "name": "Circus Fantasia",
+    "role": "warrior"
+  },
+  "cradle-of-life": {
+    "_id": "cradle-of-life",
+    "id": "art0093",
+    "name": "Cradle of Life",
+    "role": "warrior"
+  },
+  "creation-destruction": {
+    "_id": "creation-destruction",
+    "id": "art0058",
+    "name": "Creation & Destruction",
+    "role": "warrior"
+  },
+  "crimson-moon-of-nightmares": {
+    "_id": "crimson-moon-of-nightmares",
+    "id": "art0106",
+    "name": "Crimson Moon of Nightmares",
+    "role": "mage"
+  },
+  "crown-of-glory": {
+    "_id": "crown-of-glory",
+    "id": "art0103",
+    "name": "Crown of Glory",
+    "role": "knight"
+  },
+  "cruel-mischief": {
+    "_id": "cruel-mischief",
+    "id": "art5_16",
+    "name": "Cruel Mischief",
+    "role": ""
+  },
+  "cureall-magic-wand": {
+    "_id": "cureall-magic-wand",
+    "id": "art0227",
+    "name": "Cure-All Magic Wand",
+    "role": "manauser"
+  },
+  "dark-blood-keeper": {
+    "_id": "dark-blood-keeper",
+    "id": "art0200",
+    "name": "Dark Blood Keeper",
+    "role": "assassin"
+  },
+  "dignus-orb": {
+    "_id": "dignus-orb",
+    "id": "art0061",
+    "name": "Dignus Orb",
+    "role": "mage"
+  },
+  "discreet-hands": {
+    "_id": "discreet-hands",
+    "id": "art0217",
+    "name": "Discreet Hands",
+    "role": "assassin"
+  },
+  "doctors-bag": {
+    "_id": "doctors-bag",
+    "id": "art0094",
+    "name": "Doctor's Bag",
+    "role": "manauser"
+  },
+  "doubleedged-decrescent": {
+    "_id": "doubleedged-decrescent",
+    "id": "art0116",
+    "name": "Double-Edged Decrescent",
+    "role": "assassin"
+  },
+  "draco-plate": {
+    "_id": "draco-plate",
+    "id": "art0070",
+    "name": "Draco Plate",
+    "role": "warrior"
+  },
+  "dreamlike-holiday": {
+    "_id": "dreamlike-holiday",
+    "id": "art0207",
+    "name": "Dreamlike Holiday",
+    "role": "ranger"
+  },
+  "durandal": {
+    "_id": "durandal",
+    "id": "art0002",
+    "name": "Durandal",
+    "role": "warrior"
+  },
+  "dux-noctis": {
+    "_id": "dux-noctis",
+    "id": "art0084",
+    "name": "Dux Noctis",
+    "role": "ranger"
+  },
+  "elbris-ritual-sword": {
+    "_id": "elbris-ritual-sword",
+    "id": "art5_1",
+    "name": "Elbris Ritual Sword",
+    "role": "knight"
+  },
+  "elegiac-candle": {
+    "_id": "elegiac-candle",
+    "id": "art0184",
+    "name": "Elegiac Candle",
+    "role": "ranger"
+  },
+  "eticas-scepter": {
+    "_id": "eticas-scepter",
+    "id": "art5_9",
+    "name": "Etica's Scepter",
+    "role": "mage"
+  },
+  "exif-detective-ed-gadget": {
+    "_id": "exif-detective-ed-gadget",
+    "id": "art0173",
+    "name": "EXIF Detective (E.d.) Gadget",
+    "role": "manauser"
+  },
+  "fairy-tale-for-a-nightmare": {
+    "_id": "fairy-tale-for-a-nightmare",
+    "id": "art0123",
+    "name": "Fairy Tale for a Nightmare",
+    "role": "mage"
+  },
+  "fan-of-light-and-dark": {
+    "_id": "fan-of-light-and-dark",
+    "id": "art0176",
+    "name": "Fan of Light and Dark",
+    "role": "manauser"
+  },
+  "feed-of-criticism": {
+    "_id": "feed-of-criticism",
+    "id": "art0213",
+    "name": "Feed of Criticism",
+    "role": "assassin"
+  },
+  "flawless-garments": {
+    "_id": "flawless-garments",
+    "id": "art0140",
+    "name": "Flawless Garments",
+    "role": "manauser"
+  },
+  "frame-of-light": {
+    "_id": "frame-of-light",
+    "id": "art0171",
+    "name": "Frame of Light",
+    "role": "mage"
+  },
+  "frantic-flight": {
+    "_id": "frantic-flight",
+    "id": "art0215",
+    "name": "Frantic Flight",
+    "role": ""
+  },
+  "fullmetals-automail": {
+    "_id": "fullmetals-automail",
+    "id": "art0157",
+    "name": "Fullmetal's Automail",
+    "role": "warrior"
+  },
+  "gifted-pen": {
+    "_id": "gifted-pen",
+    "id": "art0235",
+    "name": "Gifted Pen",
+    "role": "ranger"
+  },
+  "glorious-flag": {
+    "_id": "glorious-flag",
+    "id": "art0233",
+    "name": "Glorious Flag",
+    "role": "assassin"
+  },
+  "glorious-throne": {
+    "_id": "glorious-throne",
+    "id": "art0240",
+    "name": "Glorious Throne",
+    "role": "knight"
+  },
+  "glowings-21": {
+    "_id": "glowings-21",
+    "id": "art0149",
+    "name": "Glo-Wings 21",
+    "role": "ranger"
+  },
+  "goblet-of-oath": {
+    "_id": "goblet-of-oath",
+    "id": "art0150",
+    "name": "Goblet of Oath",
+    "role": "assassin"
+  },
+  "golden-rose": {
+    "_id": "golden-rose",
+    "id": "art0181",
+    "name": "Golden Rose",
+    "role": "warrior"
+  },
+  "guardian-ice-crystals": {
+    "_id": "guardian-ice-crystals",
+    "id": "art0134",
+    "name": "Guardian Ice Crystals",
+    "role": "manauser"
+  },
+  "guide-to-a-decision": {
+    "_id": "guide-to-a-decision",
+    "id": "art0136",
+    "name": "Guide to a Decision"
+  },
+  "guiding-light": {
+    "_id": "guiding-light",
+    "id": "art0086",
+    "name": "Guiding Light",
+    "role": "ranger"
+  },
+  "holy-sacrifice": {
+    "_id": "holy-sacrifice",
+    "id": "art4_9",
+    "name": "Holy Sacrifice",
+    "role": "knight"
+  },
+  "homage-to-tarman": {
+    "_id": "homage-to-tarman",
+    "id": "art0210",
+    "name": "Homage to Tarman",
+    "role": "manauser"
+  },
+  "hostess-of-the-banquet": {
+    "_id": "hostess-of-the-banquet",
+    "id": "art0186",
+    "name": "Hostess of the Banquet",
+    "role": "assassin"
+  },
+  "idols-cheer": {
+    "_id": "idols-cheer",
+    "id": "art0039",
+    "name": "Idol's Cheer",
+    "role": "manauser"
+  },
+  "ignition-cloth-gloves": {
+    "_id": "ignition-cloth-gloves",
+    "id": "art0158",
+    "name": "Ignition Cloth Gloves",
+    "role": "mage"
+  },
+  "indestructible-gaiters": {
+    "_id": "indestructible-gaiters",
+    "id": "art0155",
+    "name": "Indestructible Gaiters",
+    "role": "warrior"
+  },
+  "iron-fan": {
+    "_id": "iron-fan",
+    "id": "art0038",
+    "name": "Iron Fan",
+    "role": "ranger"
+  },
+  "jackos-symbol": {
+    "_id": "jackos-symbol",
+    "id": "art0151",
+    "name": "Jack-O's Symbol",
+    "role": "warrior"
+  },
+  "jumbo-berry-parfait": {
+    "_id": "jumbo-berry-parfait",
+    "id": "art0224",
+    "name": "Jumbo Berry Parfait",
+    "role": "warrior"
+  },
+  "junkyard-dog": {
+    "_id": "junkyard-dog",
+    "id": "art0052",
+    "name": "Junkyard Dog",
+    "role": "warrior"
+  },
+  "justice-for-all": {
+    "_id": "justice-for-all",
+    "id": "art0043",
+    "name": "Justice for All",
+    "role": "knight"
+  },
+  "knowledge-seed": {
+    "_id": "knowledge-seed",
+    "id": "art0126",
+    "name": "Knowledge Seed",
+    "role": "mage"
+  },
+  "last-teatime": {
+    "_id": "last-teatime",
+    "id": "art0108",
+    "name": "Last Teatime",
+    "role": "mage"
+  },
+  "lethal-whispers": {
+    "_id": "lethal-whispers",
+    "id": "art0228",
+    "name": "Lethal Whispers",
+    "role": "assassin"
+  },
+  "moas": {
+    "_id": "moas",
+    "id": "art0216",
+    "name": "M.O.A.S",
+    "role": "knight"
+  },
+  "magic-bubble-maker": {
+    "_id": "magic-bubble-maker",
+    "id": "art0204",
+    "name": "Magic Bubble Maker",
+    "role": "mage"
+  },
+  "magic-for-friends": {
+    "_id": "magic-for-friends",
+    "id": "art0137",
+    "name": "Magic for Friends",
+    "role": "mage"
+  },
+  "manica-of-control": {
+    "_id": "manica-of-control",
+    "id": "art0095",
+    "name": "Manica of Control",
+    "role": "assassin"
+  },
+  "master-of-the-nightmare": {
+    "_id": "master-of-the-nightmare",
+    "id": "art0232",
+    "name": "Master of the Nightmare",
+    "role": "assassin"
+  },
+  "mature-sunglasses": {
+    "_id": "mature-sunglasses",
+    "id": "art0161",
+    "name": "Mature Sunglasses",
+    "role": "knight"
+  },
+  "merciless-glutton": {
+    "_id": "merciless-glutton",
+    "id": "art0083",
+    "name": "Merciless Glutton",
+    "role": "warrior"
+  },
+  "mirrored-lotus-ring": {
+    "_id": "mirrored-lotus-ring",
+    "id": "art0225",
+    "name": "Mirrored Lotus Ring",
+    "role": "mage"
+  },
+  "ms-confille": {
+    "_id": "ms-confille",
+    "id": "art0090",
+    "name": "Ms. Confille",
+    "role": "ranger"
+  },
+  "necro-undine": {
+    "_id": "necro-undine",
+    "id": "art0047",
+    "name": "Necro & Undine",
+    "role": "mage"
+  },
+  "noble-oath": {
+    "_id": "noble-oath",
+    "id": "art0033",
+    "name": "Noble Oath",
+    "role": "knight"
+  },
+  "old-gardening-shears": {
+    "_id": "old-gardening-shears",
+    "id": "art0191",
+    "name": "Old Gardening Shears",
+    "role": "ranger"
+  },
+  "otherworldly-machinery": {
+    "_id": "otherworldly-machinery",
+    "id": "art0028",
+    "name": "Otherworldly Machinery",
+    "role": "ranger"
+  },
+  "prayer-of-solitude": {
+    "_id": "prayer-of-solitude",
+    "id": "art0183",
+    "name": "Prayer of Solitude",
+    "role": "warrior"
+  },
+  "proof-of-friendship": {
+    "_id": "proof-of-friendship",
+    "id": "art0208",
+    "name": "Proof of Friendship",
+    "role": "manauser"
+  },
+  "proof-of-love": {
+    "_id": "proof-of-love",
+    "id": "art0212",
+    "name": "Proof of Love",
+    "role": "manauser"
+  },
+  "proof-of-valor": {
+    "_id": "proof-of-valor",
+    "id": "art0051",
+    "name": "Proof of Valor",
+    "role": ""
+  },
+  "pure-white-trust": {
+    "_id": "pure-white-trust",
+    "id": "art0146",
+    "name": "Pure White Trust",
+    "role": "warrior"
+  },
+  "queens-whistle": {
+    "_id": "queens-whistle",
+    "id": "art0223",
+    "name": "Queen's Whistle",
+    "role": "manauser"
+  },
+  "reingars-special-drink": {
+    "_id": "reingars-special-drink",
+    "id": "art0062",
+    "name": "Reingar's Special Drink",
+    "role": "ranger"
+  },
+  "renewed-will": {
+    "_id": "renewed-will",
+    "id": "art0209",
+    "name": "Renewed Will",
+    "role": "ranger"
+  },
+  "rhianna-luciella": {
+    "_id": "rhianna-luciella",
+    "id": "art5_11",
+    "name": "Rhianna & Luciella",
+    "role": "assassin"
+  },
+  "rise-of-a-monarch": {
+    "_id": "rise-of-a-monarch",
+    "id": "art0102",
+    "name": "Rise of a Monarch",
+    "role": "knight"
+  },
+  "ritual-of-sealing-flames": {
+    "_id": "ritual-of-sealing-flames",
+    "id": "art0236",
+    "name": "Ritual of Sealing Flames",
+    "role": "warrior"
+  },
+  "rocket-punch-gauntlet": {
+    "_id": "rocket-punch-gauntlet",
+    "id": "art0170",
+    "name": "Rocket Punch Gauntlet",
+    "role": "knight"
+  },
+  "rod-of-amaryllis": {
+    "_id": "rod-of-amaryllis",
+    "id": "art0001",
+    "name": "Rod of Amaryllis",
+    "role": "manauser"
+  },
+  "ruyi-jingu-bang": {
+    "_id": "ruyi-jingu-bang",
+    "id": "art0202",
+    "name": "Ruyi Jingu Bang",
+    "role": "warrior"
+  },
+  "sacred-tree-branch": {
+    "_id": "sacred-tree-branch",
+    "id": "art0164",
+    "name": "Sacred Tree Branch",
+    "role": "manauser"
+  },
+  "samsara-prayer-beads": {
+    "_id": "samsara-prayer-beads",
+    "id": "art0104",
+    "name": "Samsara Prayer Beads",
+    "role": "warrior"
+  },
+  "scroll-of-shadows": {
+    "_id": "scroll-of-shadows",
+    "id": "art0152",
+    "name": "Scroll of Shadows",
+    "role": "mage"
+  },
+  "seal-of-capture": {
+    "_id": "seal-of-capture",
+    "id": "art0168",
+    "name": "Seal of Capture",
+    "role": "ranger"
+  },
+  "secret-art-storm-sword": {
+    "_id": "secret-art-storm-sword",
+    "id": "art0096",
+    "name": "Secret Art - Storm Sword",
+    "role": "assassin"
+  },
+  "seductive-flower": {
+    "_id": "seductive-flower",
+    "id": "art0190",
+    "name": "Seductive Flower",
+    "role": "assassin"
+  },
+  "severed-horn-wand": {
+    "_id": "severed-horn-wand",
+    "id": "art0132",
+    "name": "Severed Horn Wand",
+    "role": "mage"
+  },
+  "shadow-winds-7": {
+    "_id": "shadow-winds-7",
+    "id": "art0242",
+    "name": "Shadow Winds 7",
+    "role": "theif"
+  },
+  "sharpshooters-handgun": {
+    "_id": "sharpshooters-handgun",
+    "id": "art0159",
+    "name": "Sharpshooter's Handgun",
+    "role": "ranger"
+  },
+  "shepherd-of-the-hollow": {
+    "_id": "shepherd-of-the-hollow",
+    "id": "art0109",
+    "name": "Shepherd of the Hollow",
+    "role": "assassin"
+  },
+  "shimadra-staff": {
+    "_id": "shimadra-staff",
+    "id": "art5_4",
+    "name": "Shimadra Staff",
+    "role": "manauser"
+  },
+  "sigurd-scythe": {
+    "_id": "sigurd-scythe",
+    "id": "art5_21",
+    "name": "Sigurd Scythe",
+    "role": "warrior"
+  },
+  "snow-crystal": {
+    "_id": "snow-crystal",
+    "id": "art0101",
+    "name": "Snow Crystal",
+    "role": "warrior"
+  },
+  "sole-consolation": {
+    "_id": "sole-consolation",
+    "id": "art0182",
+    "name": "Sole Consolation",
+    "role": "manauser"
+  },
+  "song-of-stars": {
+    "_id": "song-of-stars",
+    "id": "art5_2",
+    "name": "Song of Stars",
+    "role": "ranger"
+  },
+  "spatiotemporal-fan": {
+    "_id": "spatiotemporal-fan",
+    "id": "art0166",
+    "name": "Spatiotemporal Fan",
+    "role": "ranger"
+  },
+  "spear-of-a-new-dawn": {
+    "_id": "spear-of-a-new-dawn",
+    "id": "art0130",
+    "name": "Spear of a New Dawn",
+    "role": "knight"
+  },
+  "spear-of-purification": {
+    "_id": "spear-of-purification",
+    "id": "art0156",
+    "name": "Spear of Purification",
+    "role": "warrior"
+  },
+  "sphere-of-inferno": {
+    "_id": "sphere-of-inferno",
+    "id": "art0175",
+    "name": "Sphere of Inferno",
+    "role": "ranger"
+  },
+  "sphere-of-sadism": {
+    "_id": "sphere-of-sadism",
+    "id": "art0160",
+    "name": "Sphere of Sadism",
+    "role": "knight"
+  },
+  "spirits-breath": {
+    "_id": "spirits-breath",
+    "id": "art0049",
+    "name": "Spirit's Breath",
+    "role": "mage"
+  },
+  "spotted-mouse-hair-tie": {
+    "_id": "spotted-mouse-hair-tie",
+    "id": "art0205",
+    "name": "Spotted Mouse Hair Tie",
+    "role": "manauser"
+  },
+  "staff-of-ainz-ooal-gown": {
+    "_id": "staff-of-ainz-ooal-gown",
+    "id": "art0195",
+    "name": "Staff of Ainz Ooal Gown",
+    "role": "mage"
+  },
+  "star-of-the-deep-sea": {
+    "_id": "star-of-the-deep-sea",
+    "id": "art0141",
+    "name": "Star of the Deep Sea",
+    "role": "ranger"
+  },
+  "strike-of-aspiration": {
+    "_id": "strike-of-aspiration",
+    "id": "art0222",
+    "name": "Strike of Aspiration",
+    "role": "warrior"
+  },
+  "stella-harpa": {
+    "_id": "stella-harpa",
+    "id": "art0078",
+    "name": "Stella Harpa",
+    "role": "manauser"
+  },
+  "summer-photogenic": {
+    "_id": "summer-photogenic",
+    "id": "art0221",
+    "name": "Summer Photogenic",
+    "role": "assassin"
+  },
+  "sweet-miracle": {
+    "_id": "sweet-miracle",
+    "id": "art0198",
+    "name": "Sweet Miracle",
+    "role": "warrior"
+  },
+  "sword-of-autumn-eclipse": {
+    "_id": "sword-of-autumn-eclipse",
+    "id": "art0167",
+    "name": "Sword of Autumn Eclipse",
+    "role": "warrior"
+  },
+  "sword-of-cycling-seasons": {
+    "_id": "sword-of-cycling-seasons",
+    "id": "art0169",
+    "name": "Sword of Cycling Seasons",
+    "role": "assassin"
+  },
+  "sword-of-ezera": {
+    "_id": "sword-of-ezera",
+    "id": "art0046",
+    "name": "Sword of Ezera",
+    "role": "knight"
+  },
+  "sword-of-judgment": {
+    "_id": "sword-of-judgment",
+    "id": "art0041",
+    "name": "Sword of Judgment",
+    "role": "ranger"
+  },
+  "sword-of-summer-twilight": {
+    "_id": "sword-of-summer-twilight",
+    "id": "art0117",
+    "name": "Sword of Summer Twilight",
+    "role": "assassin"
+  },
+  "sword-of-winter-shadow": {
+    "_id": "sword-of-winter-shadow",
+    "id": "art0144",
+    "name": "Sword of Winter Shadow",
+    "role": "assassin"
+  },
+  "the-armament": {
+    "_id": "the-armament",
+    "id": "art0172",
+    "name": "The Armament",
+    "role": "assassin"
+  },
+  "thorn-of-the-blue-rose": {
+    "_id": "thorn-of-the-blue-rose",
+    "id": "art0214",
+    "name": "Thorn of the Blue Rose",
+    "role": "warrior"
+  },
+  "time-matter": {
+    "_id": "time-matter",
+    "id": "art0027",
+    "name": "Time Matter",
+    "role": "mage"
+  },
+  "torn-sleeve": {
+    "_id": "torn-sleeve",
+    "id": "art0050",
+    "name": "Torn Sleeve",
+    "role": "assassin"
+  },
+  "touch-of-rekos": {
+    "_id": "touch-of-rekos",
+    "id": "art0091",
+    "name": "Touch of Rekos",
+    "role": "manauser"
+  },
+  "tome-of-lifes-end": {
+    "_id": "tome-of-lifes-end",
+    "id": "art0231",
+    "name": "Tome of Life's End",
+    "role": "warrior"
+  },
+  "twilight-calamity": {
+    "_id": "twilight-calamity",
+    "id": "art0125",
+    "name": "Twilight Calamity",
+    "role": "mage"
+  },
+  "tyrants-descent": {
+    "_id": "tyrants-descent",
+    "id": "art0188",
+    "name": "Tyrant's Descent",
+    "role": "warrior"
+  },
+  "uberiuss-tooth": {
+    "_id": "uberiuss-tooth",
+    "id": "art0030",
+    "name": "Uberius's Tooth",
+    "role": "warrior"
+  },
+  "unfading-memories": {
+    "_id": "unfading-memories",
+    "id": "art0079",
+    "name": "Unfading Memories",
+    "role": "manauser"
+  },
+  "unleashed-axe-of-heavenly-mandate": {
+    "_id": "unleashed-axe-of-heavenly-mandate",
+    "id": "art0239",
+    "name": "Unleashed Axe of Heavenly Mandate"
+  },
+  "unseen-observer": {
+    "_id": "unseen-observer",
+    "id": "art0119",
+    "name": "Unseen Observer",
+    "role": "ranger"
+  },
+  "umbral-keystones": {
+    "_id": "umbral-keystones",
+    "id": "art0189",
+    "name": "Umbral Keystones",
+    "role": "mage"
+  },
+  "upgraded-dragon-knuckles": {
+    "_id": "upgraded-dragon-knuckles",
+    "id": "art0138",
+    "name": "Upgraded Dragon Knuckles",
+    "role": "mage"
+  },
+  "veritas": {
+    "_id": "veritas",
+    "id": "art0234",
+    "name": "Veritas",
+    "role": "manauser"
+  },
+  "victorious-flag": {
+    "_id": "victorious-flag",
+    "id": "art0087",
+    "name": "Victorious Flag"
+  },
+  "violet-talisman": {
+    "_id": "violet-talisman",
+    "id": "art0040",
+    "name": "Violet Talisman",
+    "role": "assassin"
+  },
+  "wall-of-order": {
+    "_id": "wall-of-order",
+    "id": "art0107",
+    "name": "Wall of Order",
+    "role": "ranger"
+  },
+  "war-horn": {
+    "_id": "war-horn",
+    "id": "art0129",
+    "name": "War Horn",
+    "role": ""
+  },
+  "wind-rider": {
+    "_id": "wind-rider",
+    "id": "art4_1",
+    "name": "Wind Rider",
+    "role": "assassin"
+  },
+  "wings-of-light-and-shadow": {
+    "_id": "wings-of-light-and-shadow",
+    "id": "art0133",
+    "name": "Wings of Light and Shadow",
+    "role": "knight"
+  },
+  "with-a-little-friend": {
+    "_id": "with-a-little-friend",
+    "id": "art0237",
+    "name": "With A Little Friend",
+    "role": "knight"
+  },
+  "a-song-for-everybody": {
+    "_id": "a-song-for-everybody",
+    "id": "art0092",
+    "name": "A Song for Everybody"
+  },
+  "adamant-shield": {
+    "_id": "adamant-shield",
+    "id": "art5_3",
+    "name": "Adamant Shield",
+    "role": "knight"
+  },
+  "ambrote": {
+    "_id": "ambrote",
+    "id": "art0034",
+    "name": "Ambrote",
+    "role": "ranger"
+  },
+  "andres-crossbow": {
+    "_id": "andres-crossbow",
+    "id": "art0076",
+    "name": "Andre's Crossbow",
+    "role": "ranger"
+  },
+  "aurius": {
+    "_id": "aurius",
+    "id": "art5_6",
+    "name": "Aurius",
+    "role": "knight"
+  },
+  "barthezs-orbuculum": {
+    "_id": "barthezs-orbuculum",
+    "id": "art0066",
+    "name": "Barthez's Orbuculum",
+    "role": "mage"
+  },
+  "blazing-full-moon-trophy": {
+    "_id": "blazing-full-moon-trophy",
+    "id": "art0143",
+    "name": "Blazing Full Moon Trophy"
+  },
+  "brilliant-confidence": {
+    "_id": "brilliant-confidence",
+    "id": "art0147",
+    "name": "Brilliant Confidence",
+    "role": ""
+  },
+  "card-of-small-miracles": {
+    "_id": "card-of-small-miracles",
+    "id": "art0035",
+    "name": "Card of Small Miracles",
+    "role": ""
+  },
+  "cutie-pando": {
+    "_id": "cutie-pando",
+    "id": "art0179",
+    "name": "Cutie Pando",
+    "role": ""
+  },
+  "crimson-seed": {
+    "_id": "crimson-seed",
+    "id": "art0059",
+    "name": "Crimson Seed",
+    "role": "warrior"
+  },
+  "days-of-destiny": {
+    "_id": "days-of-destiny",
+    "id": "art0120",
+    "name": "Days of Destiny",
+    "role": ""
+  },
+  "dust-devil": {
+    "_id": "dust-devil",
+    "id": "art4_7",
+    "name": "Dust Devil",
+    "role": "assassin"
+  },
+  "els-fist": {
+    "_id": "els-fist",
+    "id": "art5_20",
+    "name": "El's Fist",
+    "role": "warrior"
+  },
+  "elyhas-knife": {
+    "_id": "elyhas-knife",
+    "id": "art4_12",
+    "name": "Elyha's Knife",
+    "role": "assassin"
+  },
+  "eternus": {
+    "_id": "eternus",
+    "id": "art0055",
+    "name": "Eternus",
+    "role": "manauser"
+  },
+  "flower-shower": {
+    "_id": "flower-shower",
+    "id": "art0097",
+    "name": "Flower Shower",
+    "role": "warrior"
+  },
+  "golden-cocoa-cookie": {
+    "_id": "golden-cocoa-cookie",
+    "id": "art0085",
+    "name": "Golden Cocoa Cookie",
+    "role": ""
+  },
+  "hell-cutter": {
+    "_id": "hell-cutter",
+    "id": "art4_4",
+    "name": "Hell Cutter",
+    "role": "warrior"
+  },
+  "hilag-lance": {
+    "_id": "hilag-lance",
+    "id": "art4_5",
+    "name": "Hilag Lance",
+    "role": "knight"
+  },
+  "iela-violin": {
+    "_id": "iela-violin",
+    "id": "art4_3",
+    "name": "Iela Violin",
+    "role": "mage"
+  },
+  "infinity-basket": {
+    "_id": "infinity-basket",
+    "id": "art4_16",
+    "name": "Infinity Basket",
+    "role": "ranger"
+  },
+  "kaladra": {
+    "_id": "kaladra",
+    "id": "art0004",
+    "name": "Kal'adra",
+    "role": "mage"
+  },
+  "love-potion": {
+    "_id": "love-potion",
+    "id": "art0042",
+    "name": "Love Potion",
+    "role": ""
+  },
+  "magarahas-tome": {
+    "_id": "magarahas-tome",
+    "id": "art5_18",
+    "name": "Magaraha's Tome",
+    "role": "manauser"
+  },
+  "midnight-bloom": {
+    "_id": "midnight-bloom",
+    "id": "art0065",
+    "name": "Midnight Bloom",
+    "role": ""
+  },
+  "midnight-pizza-delivery": {
+    "_id": "midnight-pizza-delivery",
+    "id": "art0203",
+    "name": "Midnight Pizza Delivery",
+    "role": "art4_39"
+  },
+  "moonlight-dreamblade": {
+    "_id": "moonlight-dreamblade",
+    "id": "art5_12",
+    "name": "Moonlight Dreamblade",
+    "role": "assassin"
+  },
+  "moonlights-vestige": {
+    "_id": "moonlights-vestige",
+    "id": "art0112",
+    "name": "Moonlight's Vestige",
+    "role": ""
+  },
+  "new-year-cookies": {
+    "_id": "new-year-cookies",
+    "id": "art0081",
+    "name": "New Year Cookies",
+    "role": ""
+  },
+  "new-years-festival-souvenir": {
+    "_id": "new-years-festival-souvenir",
+    "id": "art0196",
+    "name": "New Year's Festival Souvenir",
+    "role": ""
+  },
+  "nostalgic-music-box": {
+    "_id": "nostalgic-music-box",
+    "id": "art0148",
+    "name": "Nostalgic Music Box",
+    "role": ""
+  },
+  "official-levulin-beach-volleyball": {
+    "_id": "official-levulin-beach-volleyball",
+    "id": "art0135",
+    "name": "Official Levulin Beach Volleyball",
+    "role": ""
+  },
+  "one-year-of-gratitude": {
+    "_id": "one-year-of-gratitude",
+    "id": "art0064",
+    "name": "One Year of Gratitude",
+    "role": ""
+  },
+  "our-beautiful-seasons": {
+    "_id": "our-beautiful-seasons",
+    "id": "art0187",
+    "name": "Our Beautiful Seasons",
+    "role": ""
+  },
+  "pipette-lance": {
+    "_id": "pipette-lance",
+    "id": "art0194",
+    "name": "Pipette Lance",
+    "role": "warrior"
+  },
+  "portrait-of-the-saviors": {
+    "_id": "portrait-of-the-saviors",
+    "id": "art0048",
+    "name": "Portrait of the Saviors",
+    "role": ""
+  },
+  "pos": {
+    "_id": "pos",
+    "id": "art0174",
+    "name": "P.O.S",
+    "role": ""
+  },
+  "prelude-to-a-new-era": {
+    "_id": "prelude-to-a-new-era",
+    "id": "art0165",
+    "name": "Prelude to a New Era",
+    "role": ""
+  },
+  "radiant-forever": {
+    "_id": "radiant-forever",
+    "id": "art0045",
+    "name": "Radiant Forever",
+    "role": "mage"
+  },
+  "rainbow-scale": {
+    "_id": "rainbow-scale",
+    "id": "art0063",
+    "name": "Rainbow Scale",
+    "role": ""
+  },
+  "records-of-unity": {
+    "_id": "records-of-unity",
+    "id": "art0142",
+    "name": "Records of Unity",
+    "role": ""
+  },
+  "reingar-festival-dumpling": {
+    "_id": "reingar-festival-dumpling",
+    "id": "art0220",
+    "name": "Reingar Festival Dumpling",
+    "role": ""
+  },
+  "resolute-soldier-series": {
+    "_id": "resolute-soldier-series",
+    "id": "art0080",
+    "name": "Resolute Soldier Series",
+    "role": ""
+  },
+  "rosa-hargana": {
+    "_id": "rosa-hargana",
+    "id": "art4_14",
+    "name": "Rosa Hargana",
+    "role": "ranger"
+  },
+  "santa-muerte": {
+    "_id": "santa-muerte",
+    "id": "art0031",
+    "name": "Santa Muerte",
+    "role": "assassin"
+  },
+  "sashe-ithanes": {
+    "_id": "sashe-ithanes",
+    "id": "art4_6",
+    "name": "Sashe Ithanes",
+    "role": "ranger"
+  },
+  "sepulcrum": {
+    "_id": "sepulcrum",
+    "id": "art0054",
+    "name": "Sepulcrum",
+    "role": "warrior"
+  },
+  "shepherds-of-chaos": {
+    "_id": "shepherds-of-chaos",
+    "id": "art0060",
+    "name": "Shepherds of Chaos",
+    "role": "assassin"
+  },
+  "silver-rain": {
+    "_id": "silver-rain",
+    "id": "art0056",
+    "name": "Silver Rain",
+    "role": "assassin"
+  },
+  "siraren": {
+    "_id": "siraren",
+    "id": "art5_15",
+    "name": "Sira-Ren",
+    "role": "mage"
+  },
+  "special-strawberry-cake": {
+    "_id": "special-strawberry-cake",
+    "id": "art0206",
+    "name": "Special Strawberry Cake",
+    "role": ""
+  },
+  "spooky-solayu-stories": {
+    "_id": "spooky-solayu-stories",
+    "id": "art0068",
+    "name": "Spooky Solayu Stories",
+    "role": ""
+  },
+  "steadfast-gatekeeper": {
+    "_id": "steadfast-gatekeeper",
+    "id": "art0073",
+    "name": "Steadfast Gatekeeper",
+    "role": "knight"
+  },
+  "strak-gauntlet": {
+    "_id": "strak-gauntlet",
+    "id": "art4_2",
+    "name": "Strak Gauntlet",
+    "role": "warrior"
+  },
+  "super-duper-water-gun-shooter": {
+    "_id": "super-duper-water-gun-shooter",
+    "id": "art0099",
+    "name": "Super Duper Water Gun Shooter",
+    "role": ""
+  },
+  "tagehels-ancient-book": {
+    "_id": "tagehels-ancient-book",
+    "id": "art5_19",
+    "name": "Tagehel's Ancient Book",
+    "role": "mage"
+  },
+  "tear-of-the-desert": {
+    "_id": "tear-of-the-desert",
+    "id": "art0053",
+    "name": "Tear of the Desert",
+    "role": "mage"
+  },
+  "the-guardian-stars-blessing": {
+    "_id": "the-guardian-stars-blessing",
+    "id": "art0127",
+    "name": "The Guardian Star's Blessing",
+    "role": ""
+  },
+  "to-a-new-world": {
+    "_id": "to-a-new-world",
+    "id": "art0110",
+    "name": "To a New World",
+    "role": ""
+  },
+  "waters-origin": {
+    "_id": "waters-origin",
+    "id": "art4_8",
+    "name": "Water's Origin",
+    "role": "manauser"
+  },
+  "wondrous-potion-vial": {
+    "_id": "wondrous-potion-vial",
+    "id": "art4_13",
+    "name": "Wondrous Potion Vial",
+    "role": "manauser"
+  },
+  "iii-the-empress": {
+    "_id": "iii-the-empress",
+    "id": "art0153",
+    "name": "III. The Empress",
+    "role": ""
+  },
+  "iv-the-emperor": {
+    "_id": "iv-the-emperor",
+    "id": "art0154",
+    "name": "IV. The Emperor",
+    "role": ""
+  },
+  "vi-the-lovers": {
+    "_id": "vi-the-lovers",
+    "id": "art0177",
+    "name": "VI. The Lovers",
+    "role": ""
+  },
+  "vii-the-chariot": {
+    "_id": "vii-the-chariot",
+    "id": "art0163",
+    "name": "VII. The Chariot",
+    "role": ""
+  },
+  "xii-the-hanged-man": {
+    "_id": "xii-the-hanged-man",
+    "id": "art0219",
+    "name": "XII. The Hanged Man",
+    "role": ""
+  },
+  "xiii-death": {
+    "_id": "xiii-death",
+    "id": "art0113",
+    "name": "XIII. Death",
+    "role": ""
+  },
+  "xiv-temperance": {
+    "_id": "xiv-temperance",
+    "id": "art0128",
+    "name": "XIV. Temperance",
+    "role": ""
+  },
+  "xv-the-devil": {
+    "_id": "xv-the-devil",
+    "id": "art0211",
+    "name": "XV. The Devil",
+    "role": ""
+  },
+  "xvi-the-tower": {
+    "_id": "xvi-the-tower",
+    "id": "art0114",
+    "name": "XVI. The Tower",
+    "role": ""
+  },
+  "xvii-the-star": {
+    "_id": "xvii-the-star",
+    "id": "art0199",
+    "name": "XVII. The Star",
+    "role": ""
+  },
+  "xviii-the-moon": {
+    "_id": "xviii-the-moon",
+    "id": "art0115",
+    "name": "XVIII. The Moon",
+    "role": ""
+  },
+  "xix-the-sun": {
+    "_id": "xix-the-sun",
+    "id": "art0162",
+    "name": "XIX. The Sun",
+    "role": ""
+  },
+  "alsacian-spear": {
+    "_id": "alsacian-spear",
+    "id": "art3_7",
+    "name": "Alsacian Spear",
+    "role": ""
+  },
+  "ancient-sheath": {
+    "_id": "ancient-sheath",
+    "id": "art3_4",
+    "name": "Ancient Sheath",
+    "role": ""
+  },
+  "aqua-rose": {
+    "_id": "aqua-rose",
+    "id": "art3_14",
+    "name": "Aqua Rose",
+    "role": ""
+  },
+  "ascending-axe": {
+    "_id": "ascending-axe",
+    "id": "art3_15",
+    "name": "Ascending Axe",
+    "role": ""
+  },
+  "atmas-portal": {
+    "_id": "atmas-portal",
+    "id": "art3_6",
+    "name": "Atma's Portal",
+    "role": ""
+  },
+  "butterfly-mandolin": {
+    "_id": "butterfly-mandolin",
+    "id": "art3_18",
+    "name": "Butterfly Mandolin",
+    "role": ""
+  },
+  "cursed-compass": {
+    "_id": "cursed-compass",
+    "id": "art3_9",
+    "name": "Cursed Compass",
+    "role": ""
+  },
+  "daydream-joker": {
+    "_id": "daydream-joker",
+    "id": "art3_17",
+    "name": "Daydream Joker",
+    "role": ""
+  },
+  "devils-brand": {
+    "_id": "devils-brand",
+    "id": "art3_12",
+    "name": "Devil's Brand",
+    "role": ""
+  },
+  "egg-of-delusion": {
+    "_id": "egg-of-delusion",
+    "id": "art3_2",
+    "name": "Egg of Delusion",
+    "role": ""
+  },
+  "envoys-pipe": {
+    "_id": "envoys-pipe",
+    "id": "art3_19",
+    "name": "Envoy's Pipe",
+    "role": ""
+  },
+  "exorcists-tonfa": {
+    "_id": "exorcists-tonfa",
+    "id": "art3_16",
+    "name": "Exorcist's Tonfa",
+    "role": ""
+  },
+  "forest-totem": {
+    "_id": "forest-totem",
+    "id": "art3_21",
+    "name": "Forest Totem",
+    "role": ""
+  },
+  "goblins-lamp": {
+    "_id": "goblins-lamp",
+    "id": "art3_13",
+    "name": "Goblin's Lamp",
+    "role": ""
+  },
+  "grail-of-blood": {
+    "_id": "grail-of-blood",
+    "id": "art3_1",
+    "name": "Grail of Blood",
+    "role": ""
+  },
+  "labyrinth-cube": {
+    "_id": "labyrinth-cube",
+    "id": "art3_8",
+    "name": "Labyrinth Cube",
+    "role": ""
+  },
+  "mighty-yaksha": {
+    "_id": "mighty-yaksha",
+    "id": "art3_11",
+    "name": "Mighty Yaksha",
+    "role": ""
+  },
+  "oath-key": {
+    "_id": "oath-key",
+    "id": "art3_22",
+    "name": "Oath Key",
+    "role": ""
+  },
+  "prophetic-candlestick": {
+    "_id": "prophetic-candlestick",
+    "id": "art3_3",
+    "name": "Prophetic Candlestick",
+    "role": ""
+  },
+  "ranons-memorandum": {
+    "_id": "ranons-memorandum",
+    "id": "art0026",
+    "name": "Ranon's Memorandum",
+    "role": ""
+  },
+  "sword-of-the-morning": {
+    "_id": "sword-of-the-morning",
+    "id": "art3_10",
+    "name": "Sword of the Morning",
+    "role": ""
+  },
+  "timeless-anchor": {
+    "_id": "timeless-anchor",
+    "id": "art3_20",
+    "name": "Timeless Anchor",
+    "role": ""
+  },
+  "bloodbead-dagger": {
+    "_id": "bloodbead-dagger",
+    "id": "art0017",
+    "name": "Bloodbead Dagger",
+    "role": ""
+  },
+  "deadly-sword": {
+    "_id": "deadly-sword",
+    "id": "art0013",
+    "name": "Deadly Sword",
+    "role": ""
+  },
+  "elfs-bow": {
+    "_id": "elfs-bow",
+    "id": "art0014",
+    "name": "Elf's Bow",
+    "role": ""
+  },
+  "fairys-grimoire": {
+    "_id": "fairys-grimoire",
+    "id": "art0016",
+    "name": "Fairy's Grimoire",
+    "role": ""
+  },
+  "firm-shield": {
+    "_id": "firm-shield",
+    "id": "art0018",
+    "name": "Firm Shield",
+    "role": ""
+  },
+  "staff-of-wisdom": {
+    "_id": "staff-of-wisdom",
+    "id": "art0015",
+    "name": "Staff of Wisdom",
+    "role": ""
+  },
+  "biting-wind-star": {
+    "_id": "biting-wind-star",
+    "id": "art0010",
+    "name": "Biting Wind Star",
+    "role": ""
+  },
+  "demons-pistol": {
+    "_id": "demons-pistol",
+    "id": "art0008",
+    "name": "Demon's Pistol",
+    "role": ""
+  },
+  "dream-scroll": {
+    "_id": "dream-scroll",
+    "id": "art0009",
+    "name": "Dream Scroll",
+    "role": ""
+  },
+  "enhanced-gauntlet": {
+    "_id": "enhanced-gauntlet",
+    "id": "art0012",
+    "name": "Enhanced Gauntlet",
+    "role": ""
+  },
+  "sword-of-the-sun": {
+    "_id": "sword-of-the-sun",
+    "id": "art0007",
+    "name": "Sword of the Sun",
+    "role": ""
+  },
+  "venus-orb": {
+    "_id": "venus-orb",
+    "id": "art0011",
+    "name": "Venus Orb",
+    "role": ""
+  }
+}

@@ -1,0 +1,2270 @@
+{
+  "alencia": {
+    "id": "c1100",
+    "_id": "alencia",
+    "name": "Alencia",
+    "role": "warrior"
+  },
+  "ambitious-tywin": {
+    "id": "c2042",
+    "_id": "ambitious-tywin",
+    "name": "Ambitious Tywin",
+    "role": "knight"
+  },
+  "apocalypse-ravi": {
+    "id": "c2019",
+    "_id": "apocalypse-ravi",
+    "name": "Apocalypse Ravi",
+    "role": "warrior"
+  },
+  "aramintha": {
+    "id": "c1048",
+    "_id": "aramintha",
+    "name": "Aramintha",
+    "role": "mage"
+  },
+  "arbiter-vildred": {
+    "id": "c2007",
+    "_id": "arbiter-vildred",
+    "name": "Arbiter Vildred",
+    "role": "assassin"
+  },
+  "archdemons-shadow": {
+    "id": "c5004",
+    "_id": "archdemons-shadow",
+    "name": "Archdemon's Shadow",
+    "role": "mage"
+  },
+  "baal-sezan": {
+    "id": "c1015",
+    "_id": "baal-sezan",
+    "name": "Baal & Sezan",
+    "role": "mage"
+  },
+  "baiken": {
+    "id": "c1093",
+    "_id": "baiken",
+    "name": "Baiken",
+    "role": "assassin"
+  },
+  "basar": {
+    "id": "c1053",
+    "_id": "basar",
+    "name": "Basar",
+    "role": "mage"
+  },
+  "bellona": {
+    "id": "c1071",
+    "_id": "bellona",
+    "name": "Bellona",
+    "role": "ranger"
+  },
+  "blood-moon-haste": {
+    "id": "c2039",
+    "_id": "blood-moon-haste",
+    "name": "Blood Moon Haste",
+    "role": "manauser"
+  },
+  "bomb-model-kanna": {
+    "id": "c1097",
+    "_id": "bomb-model-kanna",
+    "name": "Bomb Model Kanna",
+    "role": "ranger"
+  },
+  "briar-witch-iseria": {
+    "id": "c2024",
+    "_id": "briar-witch-iseria",
+    "name": "Briar Witch Iseria",
+    "role": "ranger"
+  },
+  "cecilia": {
+    "id": "c1002",
+    "_id": "cecilia",
+    "name": "Cecilia",
+    "role": "knight"
+  },
+  "celine": {
+    "id": "c1103",
+    "_id": "celine",
+    "name": "Celine",
+    "role": "assassin"
+  },
+  "cerise": {
+    "id": "c1081",
+    "_id": "cerise",
+    "name": "Cerise",
+    "role": "ranger"
+  },
+  "cermia": {
+    "id": "c1079",
+    "_id": "cermia",
+    "name": "Cermia",
+    "role": "warrior"
+  },
+  "charles": {
+    "id": "c1027",
+    "_id": "charles",
+    "name": "Charles",
+    "role": "knight"
+  },
+  "charlotte": {
+    "id": "c1009",
+    "_id": "charlotte",
+    "name": "Charlotte",
+    "role": "knight"
+  },
+  "chloe": {
+    "id": "c1049",
+    "_id": "chloe",
+    "name": "Chloe",
+    "role": "warrior"
+  },
+  "choux": {
+    "id": "c1101",
+    "_id": "choux",
+    "name": "Choux",
+    "role": "warrior"
+  },
+  "dark-corvus": {
+    "id": "c2012",
+    "_id": "dark-corvus",
+    "name": "Dark Corvus",
+    "role": "warrior"
+  },
+  "desert-jewel-basar": {
+    "id": "c2053",
+    "_id": "desert-jewel-basar",
+    "name": "Desert Jewel Basar",
+    "role": "manauser"
+  },
+  "designer-lilibet": {
+    "id": "c2095",
+    "_id": "designer-lilibet",
+    "name": "Designer Lilibet",
+    "role": "warrior"
+  },
+  "destina": {
+    "id": "c2022",
+    "_id": "destina",
+    "name": "Destina",
+    "role": "manauser"
+  },
+  "diene": {
+    "id": "c1076",
+    "_id": "diene",
+    "name": "Diene",
+    "role": "manauser"
+  },
+  "dizzy": {
+    "id": "c1094",
+    "_id": "dizzy",
+    "name": "Dizzy",
+    "role": "mage"
+  },
+  "eda": {
+    "id": "c1111",
+    "_id": "eda",
+    "name": "Eda",
+    "role": "mage"
+  },
+  "elena": {
+    "id": "c1091",
+    "_id": "elena",
+    "name": "Elena",
+    "role": "manauser"
+  },
+  "elphelt": {
+    "id": "c1105",
+    "_id": "elphelt",
+    "name": "Elphelt",
+    "role": "ranger"
+  },
+  "ervalen": {
+    "id": "c1108",
+    "_id": "ervalen",
+    "name": "Ervalen",
+    "role": "assassin"
+  },
+  "fairytale-tenebria": {
+    "id": "c5050",
+    "_id": "fairytale-tenebria",
+    "name": "Fairytale Tenebria",
+    "role": "mage"
+  },
+  "faithless-lidica": {
+    "id": "c2046",
+    "_id": "faithless-lidica",
+    "name": "Faithless Lidica",
+    "role": "ranger"
+  },
+  "fallen-cecilia": {
+    "id": "c2002",
+    "_id": "fallen-cecilia",
+    "name": "Fallen Cecilia",
+    "role": "knight"
+  },
+  "flan": {
+    "id": "c1110",
+    "_id": "flan",
+    "name": "Flan",
+    "role": "ranger"
+  },
+  "haste": {
+    "id": "c1039",
+    "_id": "haste",
+    "name": "Haste",
+    "role": "assassin"
+  },
+  "holiday-yufine": {
+    "id": "c5016",
+    "_id": "holiday-yufine",
+    "name": "Holiday Yufine",
+    "role": "warrior"
+  },
+  "iseria": {
+    "id": "c1024",
+    "_id": "iseria",
+    "name": "Iseria",
+    "role": "ranger"
+  },
+  "judge-kise": {
+    "id": "c2006",
+    "_id": "judge-kise",
+    "name": "Judge Kise",
+    "role": "warrior"
+  },
+  "kawerik": {
+    "id": "c1073",
+    "_id": "kawerik",
+    "name": "Kawerik",
+    "role": "mage"
+  },
+  "kayron": {
+    "id": "c1023",
+    "_id": "kayron",
+    "name": "Kayron",
+    "role": "assassin"
+  },
+  "ken": {
+    "id": "c1047",
+    "_id": "ken",
+    "name": "Ken",
+    "role": "warrior"
+  },
+  "kise": {
+    "id": "c1006",
+    "_id": "kise",
+    "name": "Kise",
+    "role": "assassin"
+  },
+  "krau": {
+    "id": "c1070",
+    "_id": "krau",
+    "name": "Krau",
+    "role": "knight"
+  },
+  "landy": {
+    "id": "c1109",
+    "_id": "landy",
+    "name": "Landy",
+    "role": "ranger"
+  },
+  "last-rider-krau": {
+    "id": "c2070",
+    "_id": "last-rider-krau",
+    "name": "Last Rider Krau",
+    "role": "knight"
+  },
+  "lidica": {
+    "id": "c1046",
+    "_id": "lidica",
+    "name": "Lidica",
+    "role": "ranger"
+  },
+  "lilias": {
+    "id": "c1089",
+    "_id": "lilias",
+    "name": "Lilias",
+    "role": "knight"
+  },
+  "lilibet": {
+    "id": "c1095",
+    "_id": "lilibet",
+    "name": "Lilibet",
+    "role": "warrior"
+  },
+  "little-queen-charlotte": {
+    "id": "c2009",
+    "_id": "little-queen-charlotte",
+    "name": "Little Queen Charlotte",
+    "role": "warrior"
+  },
+  "ludwig": {
+    "id": "c1069",
+    "_id": "ludwig",
+    "name": "Ludwig",
+    "role": "mage"
+  },
+  "luluca": {
+    "id": "c1082",
+    "_id": "luluca",
+    "name": "Luluca",
+    "role": "mage"
+  },
+  "luna": {
+    "id": "c1066",
+    "_id": "luna",
+    "name": "Luna",
+    "role": "warrior"
+  },
+  "maid-chloe": {
+    "id": "c2049",
+    "_id": "maid-chloe",
+    "name": "Maid Chloe",
+    "role": "manauser"
+  },
+  "martial-artist-ken": {
+    "id": "c2047",
+    "_id": "martial-artist-ken",
+    "name": "Martial Artist Ken",
+    "role": "warrior"
+  },
+  "mediator-kawerik": {
+    "id": "c2073",
+    "_id": "mediator-kawerik",
+    "name": "Mediator Kawerik",
+    "role": "warrior"
+  },
+  "melissa": {
+    "id": "c1096",
+    "_id": "melissa",
+    "name": "Melissa",
+    "role": "mage"
+  },
+  "mort": {
+    "id": "c1104",
+    "_id": "mort",
+    "name": "Mort",
+    "role": "knight"
+  },
+  "mui": {
+    "id": "c1044",
+    "_id": "mui",
+    "name": "Mui",
+    "role": "warrior"
+  },
+  "operator-sigret": {
+    "id": "c2072",
+    "_id": "operator-sigret",
+    "name": "Operator Sigret",
+    "role": "ranger"
+  },
+  "pavel": {
+    "id": "c1080",
+    "_id": "pavel",
+    "name": "Pavel",
+    "role": "ranger"
+  },
+  "politis": {
+    "id": "c1112",
+    "_id": "politis",
+    "name": "Politis",
+    "role": "mage"
+  },
+  "ravi": {
+    "id": "c1019",
+    "_id": "ravi",
+    "name": "Ravi",
+    "role": "warrior"
+  },
+  "ray": {
+    "id": "c1090",
+    "_id": "ray",
+    "name": "Ray",
+    "role": "manauser"
+  },
+  "remnant-violet": {
+    "id": "c2074",
+    "_id": "remnant-violet",
+    "name": "Remnant Violet",
+    "role": "assassin"
+  },
+  "roana": {
+    "id": "c1102",
+    "_id": "roana",
+    "name": "Roana",
+    "role": "manauser"
+  },
+  "ruele-of-light": {
+    "id": "c1022",
+    "_id": "ruele-of-light",
+    "name": "Ruele of Light",
+    "role": "manauser"
+  },
+  "sage-baal-sezan": {
+    "id": "c2015",
+    "_id": "sage-baal-sezan",
+    "name": "Sage Baal & Sezan",
+    "role": "mage"
+  },
+  "seaside-bellona": {
+    "id": "c5071",
+    "_id": "seaside-bellona",
+    "name": "Seaside Bellona",
+    "role": "ranger"
+  },
+  "senya": {
+    "id": "c1106",
+    "_id": "senya",
+    "name": "Senya",
+    "role": "knight"
+  },
+  "sez": {
+    "id": "c1038",
+    "_id": "sez",
+    "name": "Sez",
+    "role": "assassin"
+  },
+  "sigret": {
+    "id": "c1072",
+    "_id": "sigret",
+    "name": "Sigret",
+    "role": "warrior"
+  },
+  "silver-blade-aramintha": {
+    "id": "c2048",
+    "_id": "silver-blade-aramintha",
+    "name": "Silver Blade Aramintha",
+    "role": "mage"
+  },
+  "sol": {
+    "id": "c1092",
+    "_id": "sol",
+    "name": "Sol",
+    "role": "warrior"
+  },
+  "solitaria-of-the-snow": {
+    "id": "c2111",
+    "_id": "solitaria-of-the-snow",
+    "name": "Solitaria of the Snow",
+    "role": "mage"
+  },
+  "specimen-sez": {
+    "id": "c2038",
+    "_id": "specimen-sez",
+    "name": "Specimen Sez",
+    "role": "assassin"
+  },
+  "specter-tenebria": {
+    "id": "c2050",
+    "_id": "specter-tenebria",
+    "name": "Specter Tenebria",
+    "role": "mage"
+  },
+  "tamarinne": {
+    "id": "c1067",
+    "_id": "tamarinne",
+    "name": "Tamarinne",
+    "role": "manauser"
+  },
+  "tenebria": {
+    "id": "c1050",
+    "_id": "tenebria",
+    "name": "Tenebria",
+    "role": "mage"
+  },
+  "top-model-luluca": {
+    "id": "c2082",
+    "_id": "top-model-luluca",
+    "name": "Top Model Luluca",
+    "role": "mage"
+  },
+  "tywin": {
+    "id": "c1042",
+    "_id": "tywin",
+    "name": "Tywin",
+    "role": "knight"
+  },
+  "vildred": {
+    "id": "c1007",
+    "_id": "vildred",
+    "name": "Vildred",
+    "role": "assassin"
+  },
+  "violet": {
+    "id": "c1074",
+    "_id": "violet",
+    "name": "Violet",
+    "role": "assassin"
+  },
+  "vivian": {
+    "id": "c1088",
+    "_id": "vivian",
+    "name": "Vivian",
+    "role": "mage"
+  },
+  "yufine": {
+    "id": "c1016",
+    "_id": "yufine",
+    "name": "Yufine",
+    "role": "warrior"
+  },
+  "yuna": {
+    "id": "c1030",
+    "_id": "yuna",
+    "name": "Yuna",
+    "role": "ranger"
+  },
+  "zeno": {
+    "id": "c1083",
+    "_id": "zeno",
+    "name": "Zeno",
+    "role": "mage"
+  },
+  "achates": {
+    "id": "c1017",
+    "_id": "achates",
+    "name": "Achates",
+    "role": "manauser"
+  },
+  "angelica": {
+    "id": "c1062",
+    "_id": "angelica",
+    "name": "Angelica",
+    "role": "manauser"
+  },
+  "armin": {
+    "id": "c1008",
+    "_id": "armin",
+    "name": "Armin",
+    "role": "knight"
+  },
+  "assassin-cartuja": {
+    "id": "c2013",
+    "_id": "assassin-cartuja",
+    "name": "Assassin Cartuja",
+    "role": "warrior"
+  },
+  "assassin-cidd": {
+    "id": "c2014",
+    "_id": "assassin-cidd",
+    "name": "Assassin Cidd",
+    "role": "assassin"
+  },
+  "assassin-coli": {
+    "id": "c2033",
+    "_id": "assassin-coli",
+    "name": "Assassin Coli",
+    "role": "assassin"
+  },
+  "auxiliary-lots": {
+    "id": "c2031",
+    "_id": "auxiliary-lots",
+    "name": "Auxiliary Lots",
+    "role": "mage"
+  },
+  "benevolent-romann": {
+    "id": "c2043",
+    "_id": "benevolent-romann",
+    "name": "Benevolent Romann",
+    "role": "mage"
+  },
+  "blaze-dingo": {
+    "id": "c2021",
+    "_id": "blaze-dingo",
+    "name": "Blaze Dingo",
+    "role": "manauser"
+  },
+  "blood-blade-karin": {
+    "id": "c2011",
+    "_id": "blood-blade-karin",
+    "name": "Blood Blade Karin",
+    "role": "assassin"
+  },
+  "cartuja": {
+    "id": "c1013",
+    "_id": "cartuja",
+    "name": "Cartuja",
+    "role": "warrior"
+  },
+  "celestial-mercedes": {
+    "id": "c2005",
+    "_id": "celestial-mercedes",
+    "name": "Celestial Mercedes",
+    "role": "mage"
+  },
+  "challenger-dominiel": {
+    "id": "c2037",
+    "_id": "challenger-dominiel",
+    "name": "Challenger Dominiel",
+    "role": "mage"
+  },
+  "champion-zerato": {
+    "id": "c2010",
+    "_id": "champion-zerato",
+    "name": "Champion Zerato",
+    "role": "mage"
+  },
+  "cidd": {
+    "id": "c1014",
+    "_id": "cidd",
+    "name": "Cidd",
+    "role": "assassin"
+  },
+  "clarissa": {
+    "id": "c1028",
+    "_id": "clarissa",
+    "name": "Clarissa",
+    "role": "warrior"
+  },
+  "coli": {
+    "id": "c1033",
+    "_id": "coli",
+    "name": "Coli",
+    "role": "assassin"
+  },
+  "corvus": {
+    "id": "c1012",
+    "_id": "corvus",
+    "name": "Corvus",
+    "role": "warrior"
+  },
+  "crescent-moon-rin": {
+    "id": "c2054",
+    "_id": "crescent-moon-rin",
+    "name": "Crescent Moon Rin",
+    "role": "assassin"
+  },
+  "crimson-armin": {
+    "id": "c2008",
+    "_id": "crimson-armin",
+    "name": "Crimson Armin",
+    "role": "knight"
+  },
+  "crozet": {
+    "id": "c1036",
+    "_id": "crozet",
+    "name": "Crozet",
+    "role": "knight"
+  },
+  "dingo": {
+    "id": "c1021",
+    "_id": "dingo",
+    "name": "Dingo",
+    "role": "warrior"
+  },
+  "dominiel": {
+    "id": "c1037",
+    "_id": "dominiel",
+    "name": "Dominiel",
+    "role": "mage"
+  },
+  "fighter-maya": {
+    "id": "c2032",
+    "_id": "fighter-maya",
+    "name": "Fighter Maya",
+    "role": "knight"
+  },
+  "free-spirit-tieria": {
+    "id": "c3026",
+    "_id": "free-spirit-tieria",
+    "name": "Free Spirit Tieria",
+    "role": "warrior"
+  },
+  "furious": {
+    "id": "c1087",
+    "_id": "furious",
+    "name": "Furious",
+    "role": "ranger"
+  },
+  "general-purrgis": {
+    "id": "c2035",
+    "_id": "general-purrgis",
+    "name": "General Purrgis",
+    "role": "warrior"
+  },
+  "great-chief-khawana": {
+    "id": "c2086",
+    "_id": "great-chief-khawana",
+    "name": "Great Chief Khawana",
+    "role": "warrior"
+  },
+  "guider-aither": {
+    "id": "c2018",
+    "_id": "guider-aither",
+    "name": "Guider Aither",
+    "role": "mage"
+  },
+  "karin": {
+    "id": "c1011",
+    "_id": "karin",
+    "name": "Karin",
+    "role": "assassin"
+  },
+  "khawana": {
+    "id": "c1086",
+    "_id": "khawana",
+    "name": "Khawana",
+    "role": "assassin"
+  },
+  "khawazu": {
+    "id": "c1085",
+    "_id": "khawazu",
+    "name": "Khawazu",
+    "role": "warrior"
+  },
+  "kitty-clarissa": {
+    "id": "c2028",
+    "_id": "kitty-clarissa",
+    "name": "Kitty Clarissa",
+    "role": "warrior"
+  },
+  "kizuna-ai": {
+    "id": "c1107",
+    "_id": "kizuna-ai",
+    "name": "Kizuna AI",
+    "role": "manauser"
+  },
+  "leo": {
+    "id": "c1029",
+    "_id": "leo",
+    "name": "Leo",
+    "role": "ranger"
+  },
+  "lots": {
+    "id": "c1031",
+    "_id": "lots",
+    "name": "Lots",
+    "role": "manauser"
+  },
+  "maya": {
+    "id": "c1032",
+    "_id": "maya",
+    "name": "Maya",
+    "role": "knight"
+  },
+  "mercedes": {
+    "id": "c1005",
+    "_id": "mercedes",
+    "name": "Mercedes",
+    "role": "mage"
+  },
+  "purrgis": {
+    "id": "c1035",
+    "_id": "purrgis",
+    "name": "Purrgis",
+    "role": "warrior"
+  },
+  "rin": {
+    "id": "c1054",
+    "_id": "rin",
+    "name": "Rin",
+    "role": "manauser"
+  },
+  "roaming-warrior-leo": {
+    "id": "c2029",
+    "_id": "roaming-warrior-leo",
+    "name": "Roaming Warrior Leo",
+    "role": "ranger"
+  },
+  "romann": {
+    "id": "c1043",
+    "_id": "romann",
+    "name": "Romann",
+    "role": "mage"
+  },
+  "rose": {
+    "id": "c1003",
+    "_id": "rose",
+    "name": "Rose",
+    "role": "knight"
+  },
+  "schuri": {
+    "id": "c1020",
+    "_id": "schuri",
+    "name": "Schuri",
+    "role": "ranger"
+  },
+  "serila": {
+    "id": "c1040",
+    "_id": "serila",
+    "name": "Serila",
+    "role": "mage"
+  },
+  "shadow-rose": {
+    "id": "c2003",
+    "_id": "shadow-rose",
+    "name": "Shadow Rose",
+    "role": "knight"
+  },
+  "shooting-star-achates": {
+    "id": "c2017",
+    "_id": "shooting-star-achates",
+    "name": "Shooting Star Achates",
+    "role": "manauser"
+  },
+  "silk": {
+    "id": "c1004",
+    "_id": "silk",
+    "name": "Silk",
+    "role": "ranger"
+  },
+  "sinful-angelica": {
+    "id": "c2062",
+    "_id": "sinful-angelica",
+    "name": "Sinful Angelica",
+    "role": "manauser"
+  },
+  "surin": {
+    "id": "c1065",
+    "_id": "surin",
+    "name": "Surin",
+    "role": "assassin"
+  },
+  "tempest-surin": {
+    "id": "c2065",
+    "_id": "tempest-surin",
+    "name": "Tempest Surin",
+    "role": "assassin"
+  },
+  "troublemaker-crozet": {
+    "id": "c2036",
+    "_id": "troublemaker-crozet",
+    "name": "Troublemaker Crozet",
+    "role": "knight"
+  },
+  "wanderer-silk": {
+    "id": "c2004",
+    "_id": "wanderer-silk",
+    "name": "Wanderer Silk",
+    "role": "ranger"
+  },
+  "watcher-schuri": {
+    "id": "c2020",
+    "_id": "watcher-schuri",
+    "name": "Watcher Schuri",
+    "role": "ranger"
+  },
+  "zerato": {
+    "id": "c1010",
+    "_id": "zerato",
+    "name": "Zerato",
+    "role": "mage"
+  },
+  "adlay": {
+    "id": "c3043",
+    "_id": "adlay",
+    "name": "Adlay",
+    "role": "mage"
+  },
+  "adventurer-ras": {
+    "id": "c5001",
+    "_id": "adventurer-ras",
+    "name": "Adventurer Ras",
+    "role": "knight"
+  },
+  "ainos": {
+    "id": "c3105",
+    "_id": "ainos",
+    "name": "Ainos",
+    "role": "manauser"
+  },
+  "ains": {
+    "id": "c3093",
+    "_id": "ains",
+    "name": "Ains",
+    "role": "warrior"
+  },
+  "aither": {
+    "id": "c1018",
+    "_id": "aither",
+    "name": "Aither",
+    "role": "manauser"
+  },
+  "alexa": {
+    "id": "c3012",
+    "_id": "alexa",
+    "name": "Alexa",
+    "role": "assassin"
+  },
+  "allrounder-wanda": {
+    "id": "c4065",
+    "_id": "allrounder-wanda",
+    "name": "All-Rounder Wanda",
+    "role": "ranger"
+  },
+  "angelic-montmorancy": {
+    "id": "c4042",
+    "_id": "angelic-montmorancy",
+    "name": "Angelic Montmorancy",
+    "role": "manauser"
+  },
+  "arowell": {
+    "id": "c3004",
+    "_id": "arowell",
+    "name": "Arowell",
+    "role": "knight"
+  },
+  "azalea": {
+    "id": "c3031",
+    "_id": "azalea",
+    "name": "Azalea",
+    "role": "warrior"
+  },
+  "bask": {
+    "id": "c3006",
+    "_id": "bask",
+    "name": "Bask",
+    "role": "knight"
+  },
+  "batisse": {
+    "id": "c3095",
+    "_id": "batisse",
+    "name": "Batisse",
+    "role": "warrior"
+  },
+  "butcher-corps-inquisitor": {
+    "id": "c3001",
+    "_id": "butcher-corps-inquisitor",
+    "name": "Butcher Corps Inquisitor",
+    "role": "knight"
+  },
+  "captain-rikoris": {
+    "id": "c4034",
+    "_id": "captain-rikoris",
+    "name": "Captain Rikoris",
+    "role": "warrior"
+  },
+  "carmainerose": {
+    "id": "c3071",
+    "_id": "carmainerose",
+    "name": "Carmainerose",
+    "role": "mage"
+  },
+  "carrot": {
+    "id": "c3051",
+    "_id": "carrot",
+    "name": "Carrot",
+    "role": "mage"
+  },
+  "celeste": {
+    "id": "c3064",
+    "_id": "celeste",
+    "name": "Celeste",
+    "role": "ranger"
+  },
+  "chaos-inquisitor": {
+    "id": "c4001",
+    "_id": "chaos-inquisitor",
+    "name": "Chaos Inquisitor",
+    "role": "knight"
+  },
+  "chaos-sect-axe": {
+    "id": "c4025",
+    "_id": "chaos-sect-axe",
+    "name": "Chaos Sect Axe",
+    "role": "warrior"
+  },
+  "church-of-ilryos-axe": {
+    "id": "c3025",
+    "_id": "church-of-ilryos-axe",
+    "name": "Church of Ilryos Axe",
+    "role": "warrior"
+  },
+  "commander-lorina": {
+    "id": "c4035",
+    "_id": "commander-lorina",
+    "name": "Commander Lorina",
+    "role": "warrior"
+  },
+  "doll-maker-pearlhorizon": {
+    "id": "c4073",
+    "_id": "doll-maker-pearlhorizon",
+    "name": "Doll Maker Pearlhorizon",
+    "role": "mage"
+  },
+  "doris": {
+    "id": "c3044",
+    "_id": "doris",
+    "name": "Doris",
+    "role": "manauser"
+  },
+  "eaton": {
+    "id": "c3094",
+    "_id": "eaton",
+    "name": "Eaton",
+    "role": "knight"
+  },
+  "elson": {
+    "id": "c3054",
+    "_id": "elson",
+    "name": "Elson",
+    "role": "manauser"
+  },
+  "enott": {
+    "id": "c3022",
+    "_id": "enott",
+    "name": "Enott",
+    "role": "warrior"
+  },
+  "falconer-kluri": {
+    "id": "c4003",
+    "_id": "falconer-kluri",
+    "name": "Falconer Kluri",
+    "role": "knight"
+  },
+  "glenn": {
+    "id": "c3103",
+    "_id": "glenn",
+    "name": "Glenn",
+    "role": "ranger"
+  },
+  "gloomyrain": {
+    "id": "c3074",
+    "_id": "gloomyrain",
+    "name": "Gloomyrain",
+    "role": "mage"
+  },
+  "godmother": {
+    "id": "c3101",
+    "_id": "godmother",
+    "name": "Godmother",
+    "role": "ranger"
+  },
+  "gunther": {
+    "id": "c3024",
+    "_id": "gunther",
+    "name": "Gunther",
+    "role": "warrior"
+  },
+  "hataan": {
+    "id": "c3091",
+    "_id": "hataan",
+    "name": "Hataan",
+    "role": "assassin"
+  },
+  "hazel": {
+    "id": "c3041",
+    "_id": "hazel",
+    "name": "Hazel",
+    "role": "manauser"
+  },
+  "helga": {
+    "id": "c3023",
+    "_id": "helga",
+    "name": "Helga",
+    "role": "warrior"
+  },
+  "hurado": {
+    "id": "c3055",
+    "_id": "hurado",
+    "name": "Hurado",
+    "role": "mage"
+  },
+  "ian": {
+    "id": "c3102",
+    "_id": "ian",
+    "name": "Ian",
+    "role": "ranger"
+  },
+  "jecht": {
+    "id": "c3053",
+    "_id": "jecht",
+    "name": "Jecht",
+    "role": "manauser"
+  },
+  "jena": {
+    "id": "c3052",
+    "_id": "jena",
+    "name": "Jena",
+    "role": "mage"
+  },
+  "judith": {
+    "id": "c3011",
+    "_id": "judith",
+    "name": "Judith",
+    "role": "assassin"
+  },
+  "kikirat-v2": {
+    "id": "c3084",
+    "_id": "kikirat-v2",
+    "name": "Kikirat v2",
+    "role": "knight"
+  },
+  "kiris": {
+    "id": "c3063",
+    "_id": "kiris",
+    "name": "Kiris",
+    "role": "ranger"
+  },
+  "kluri": {
+    "id": "c3003",
+    "_id": "kluri",
+    "name": "Kluri",
+    "role": "knight"
+  },
+  "lena": {
+    "id": "c3092",
+    "_id": "lena",
+    "name": "Lena",
+    "role": "warrior"
+  },
+  "lorina": {
+    "id": "c3035",
+    "_id": "lorina",
+    "name": "Lorina",
+    "role": "warrior"
+  },
+  "lucy": {
+    "id": "c3113",
+    "_id": "lucy",
+    "name": "Lucy",
+    "role": "manauser"
+  },
+  "magic-scholar-doris": {
+    "id": "c4044",
+    "_id": "magic-scholar-doris",
+    "name": "Magic Scholar Doris",
+    "role": "manauser"
+  },
+  "mascot-hazel": {
+    "id": "c4041",
+    "_id": "mascot-hazel",
+    "name": "Mascot Hazel",
+    "role": "manauser"
+  },
+  "mercenary-helga": {
+    "id": "c4023",
+    "_id": "mercenary-helga",
+    "name": "Mercenary Helga",
+    "role": "warrior"
+  },
+  "mirsa": {
+    "id": "c3014",
+    "_id": "mirsa",
+    "name": "Mirsa",
+    "role": "assassin"
+  },
+  "mistychain": {
+    "id": "c3072",
+    "_id": "mistychain",
+    "name": "Mistychain",
+    "role": "mage"
+  },
+  "montmorancy": {
+    "id": "c3042",
+    "_id": "montmorancy",
+    "name": "Montmorancy",
+    "role": "manauser"
+  },
+  "mucacha": {
+    "id": "c3033",
+    "_id": "mucacha",
+    "name": "Mucacha",
+    "role": "warrior"
+  },
+  "muse-rima": {
+    "id": "c4062",
+    "_id": "muse-rima",
+    "name": "Muse Rima",
+    "role": "ranger"
+  },
+  "nemunas": {
+    "id": "c3061",
+    "_id": "nemunas",
+    "name": "Nemunas",
+    "role": "ranger"
+  },
+  "otillie": {
+    "id": "c3045",
+    "_id": "otillie",
+    "name": "Otillie",
+    "role": "mage"
+  },
+  "pearlhorizon": {
+    "id": "c3073",
+    "_id": "pearlhorizon",
+    "name": "Pearlhorizon",
+    "role": "mage"
+  },
+  "pyllis": {
+    "id": "c3005",
+    "_id": "pyllis",
+    "name": "Pyllis",
+    "role": "knight"
+  },
+  "ras": {
+    "id": "c1001",
+    "_id": "ras",
+    "name": "Ras",
+    "role": "knight"
+  },
+  "requiemroar": {
+    "id": "c3075",
+    "_id": "requiemroar",
+    "name": "Requiemroar",
+    "role": "manauser"
+  },
+  "researcher-carrot": {
+    "id": "c4051",
+    "_id": "researcher-carrot",
+    "name": "Researcher Carrot",
+    "role": "mage"
+  },
+  "righteous-thief-roozid": {
+    "id": "c4013",
+    "_id": "righteous-thief-roozid",
+    "name": "Righteous Thief Roozid",
+    "role": "assassin"
+  },
+  "rikoris": {
+    "id": "c3034",
+    "_id": "rikoris",
+    "name": "Rikoris",
+    "role": "warrior"
+  },
+  "rima": {
+    "id": "c3062",
+    "_id": "rima",
+    "name": "Rima",
+    "role": "ranger"
+  },
+  "roozid": {
+    "id": "c3013",
+    "_id": "roozid",
+    "name": "Roozid",
+    "role": "assassin"
+  },
+  "sonia": {
+    "id": "c3104",
+    "_id": "sonia",
+    "name": "Sonia",
+    "role": "manauser"
+  },
+  "sven": {
+    "id": "c3015",
+    "_id": "sven",
+    "name": "Sven",
+    "role": "assassin"
+  },
+  "taranor-guard": {
+    "id": "c3032",
+    "_id": "taranor-guard",
+    "name": "Taranor Guard",
+    "role": "warrior"
+  },
+  "taranor-royal-guard": {
+    "id": "c3002",
+    "_id": "taranor-royal-guard",
+    "name": "Taranor Royal Guard",
+    "role": "knight"
+  },
+  "tieria": {
+    "id": "c3021",
+    "_id": "tieria",
+    "name": "Tieria",
+    "role": "warrior"
+  },
+  "wanda": {
+    "id": "c3065",
+    "_id": "wanda",
+    "name": "Wanda",
+    "role": "ranger"
+  },
+  "zealot-carmainerose": {
+    "id": "c4071",
+    "_id": "zealot-carmainerose",
+    "name": "Zealot Carmainerose",
+    "role": "mage"
+  },
+  "ilynav": {
+    "id": "c1113",
+    "_id": "ilynav",
+    "name": "Ilynav",
+    "role": "knight"
+  },
+  "inferno-khawazu": {
+    "id": "c2085",
+    "_id": "inferno-khawazu",
+    "name": "Inferno Khawazu",
+    "role": "warrior"
+  },
+  "straze": {
+    "id": "c1034",
+    "_id": "straze",
+    "name": "Straze",
+    "role": "warrior"
+  },
+  "emilia": {
+    "id": "c1116",
+    "_id": "emilia",
+    "name": "Emilia",
+    "role": "manauser"
+  },
+  "rem": {
+    "id": "c1114",
+    "_id": "rem",
+    "name": "Rem",
+    "role": "warrior"
+  },
+  "ram": {
+    "id": "c1115",
+    "_id": "ram",
+    "name": "Ram",
+    "role": "mage"
+  },
+  "melany": {
+    "id": "c3121",
+    "_id": "melany",
+    "name": "Melany",
+    "role": "warrior"
+  },
+  "helen": {
+    "id": "c3122",
+    "_id": "helen",
+    "name": "Helen",
+    "role": "knight"
+  },
+  "christy": {
+    "id": "c3123",
+    "_id": "christy",
+    "name": "Christy",
+    "role": "knight"
+  },
+  "camilla": {
+    "id": "c3124",
+    "_id": "camilla",
+    "name": "Camilla",
+    "role": "warrior"
+  },
+  "penelope": {
+    "id": "c3125",
+    "_id": "penelope",
+    "name": "Penelope",
+    "role": "assassin"
+  },
+  "summertime-iseria": {
+    "id": "c5024",
+    "_id": "summertime-iseria",
+    "name": "Summertime Iseria",
+    "role": "ranger"
+  },
+  "closer-charles": {
+    "id": "c2027",
+    "_id": "closer-charles",
+    "name": "Closer Charles",
+    "role": "assassin"
+  },
+  "angel-of-light-angelica": {
+    "id": "c6062",
+    "_id": "angel-of-light-angelica",
+    "name": "Angel of Light Angelica",
+    "role": "mage"
+  },
+  "belian": {
+    "id": "c1117",
+    "_id": "belian",
+    "name": "Belian",
+    "role": "knight"
+  },
+  "ran": {
+    "id": "c1118",
+    "_id": "ran",
+    "name": "Ran",
+    "role": "assassin"
+  },
+  "rimuru": {
+    "id": "c1121",
+    "_id": "rimuru",
+    "name": "Rimuru",
+    "role": "warrior"
+  },
+  "shuna": {
+    "id": "c1123",
+    "_id": "shuna",
+    "name": "Shuna",
+    "role": "manauser"
+  },
+  "milim": {
+    "id": "c1122",
+    "_id": "milim",
+    "name": "Milim",
+    "role": "mage"
+  },
+  "shadow-knight-pyllis": {
+    "id": "c4005",
+    "_id": "shadow-knight-pyllis",
+    "name": "Shadow Knight Pyllis",
+    "role": "knight"
+  },
+  "spirit-eye-celine": {
+    "id": "c2103",
+    "_id": "spirit-eye-celine",
+    "name": "Spirit Eye Celine",
+    "role": "assassin"
+  },
+  "adin": {
+    "id": "c3143",
+    "_id": "adin",
+    "name": "Adin",
+    "role": "assassin"
+  },
+  "zahhak": {
+    "id": "c1119",
+    "_id": "zahhak",
+    "name": "Zahhak",
+    "role": "warrior"
+  },
+  "conqueror-lilias": {
+    "id": "c2089",
+    "_id": "conqueror-lilias",
+    "name": "Conqueror Lilias",
+    "role": "warrior"
+  },
+  "command-model-laika": {
+    "id": "c1099",
+    "_id": "command-model-laika",
+    "name": "Command Model Laika",
+    "role": "ranger"
+  },
+  "peira": {
+    "id": "c1125",
+    "_id": "peira",
+    "name": "Peira",
+    "role": "assassin"
+  },
+  "muwi": {
+    "id": "c3132",
+    "_id": "muwi",
+    "name": "Muwi",
+    "role": "assassin"
+  },
+  "lionheart-cermia": {
+    "id": "c2079",
+    "_id": "lionheart-cermia",
+    "name": "Lionheart Cermia",
+    "role": "warrior"
+  },
+  "januta": {
+    "id": "c3131",
+    "_id": "januta",
+    "name": "Januta",
+    "role": "warrior"
+  },
+  "orte": {
+    "id": "c3133",
+    "_id": "orte",
+    "name": "Orte",
+    "role": "assassin"
+  },
+  "yoonryoung": {
+    "_id": "yoonryoung",
+    "id": "c3134",
+    "name": "Yoonryoung",
+    "role": "knight"
+  },
+  "hasol": {
+    "_id": "hasol",
+    "id": "c3135",
+    "name": "Hasol",
+    "role": "knight"
+  },
+  "hwayoung": {
+    "id": "c1128",
+    "_id": "hwayoung",
+    "name": "Hwayoung",
+    "role": "warrior"
+  },
+  "bad-cat-armin": {
+    "id": "c6008",
+    "_id": "bad-cat-armin",
+    "name": "Bad Cat Armin",
+    "role": "warrior"
+  },
+  "pirate-captain-flan": {
+    "id": "c2110",
+    "_id": "pirate-captain-flan",
+    "name": "Pirate Captain Flan",
+    "role": "ranger"
+  },
+  "vigilante-leader-glenn": {
+    "id": "c4103",
+    "_id": "vigilante-leader-glenn",
+    "name": "Vigilante Leader Glenn",
+    "role": "ranger"
+  },
+  "verdant-adin": {
+    "id": "c4143",
+    "_id": "verdant-adin",
+    "name": "Verdant Adin",
+    "role": "assassin"
+  },
+  "holy-flame-adin": {
+    "id": "c4141",
+    "_id": "holy-flame-adin",
+    "name": "Holy Flame Adin",
+    "role": "assassin"
+  },
+  "serene-purity-adin": {
+    "id": "c4142",
+    "_id": "serene-purity-adin",
+    "name": "Serene Purity Adin",
+    "role": "assassin"
+  },
+  "jacko": {
+    "id": "c1130",
+    "_id": "jacko",
+    "name": "Jack-O'",
+    "role": "warrior"
+  },
+  "aria": {
+    "id": "c1129",
+    "_id": "aria",
+    "name": "Aria",
+    "role": "mage"
+  },
+  "taeyou": {
+    "_id": "taeyou",
+    "id": "c1127",
+    "name": "Taeyou",
+    "role": "warrior"
+  },
+  "yulha": {
+    "_id": "yulha",
+    "id": "c1131",
+    "name": "Yulha",
+    "role": "knight"
+  },
+  "sylvan-sage-vivian": {
+    "_id": "sylvan-sage-vivian",
+    "id": "c2088",
+    "name": "Sylvan Sage Vivian",
+    "role": "mage"
+  },
+  "summers-disciple-alexa": {
+    "id": "c4012",
+    "_id": "summers-disciple-alexa",
+    "name": "Summer's Disciple Alexa",
+    "role": "assassin"
+  },
+  "sharun": {
+    "id": "c1132",
+    "_id": "sharun",
+    "name": "Sharun",
+    "role": "manauser"
+  },
+  "summer-break-charlotte": {
+    "id": "c5009",
+    "_id": "summer-break-charlotte",
+    "name": "Summer Break Charlotte",
+    "role": "knight"
+  },
+  "moon-bunny-dominiel": {
+    "id": "c6037",
+    "_id": "moon-bunny-dominiel",
+    "name": "Moon Bunny Dominiel",
+    "role": "manauser"
+  },
+  "commander-pavel": {
+    "_id": "commander-pavel",
+    "id": "c2080",
+    "name": "Commander Pavel",
+    "role": "ranger"
+  },
+  "edward-elric": {
+    "_id": "edward-elric",
+    "id": "c1134",
+    "name": "Edward Elric",
+    "role": "warrior"
+  },
+  "roy-mustang": {
+    "_id": "roy-mustang",
+    "id": "c1135",
+    "name": "Roy Mustang",
+    "role": "mage"
+  },
+  "riza-hawkeye": {
+    "_id": "riza-hawkeye",
+    "id": "c1136",
+    "name": "Riza Hawkeye",
+    "role": "ranger"
+  },
+  "lua": {
+    "_id": "lua",
+    "id": "c1126",
+    "name": "Lua",
+    "role": "ranger"
+  },
+  "astromancer-elena": {
+    "_id": "astromancer-elena",
+    "id": "c2091",
+    "name": "Astromancer Elena",
+    "role": "ranger"
+  },
+  "unbound-knight-arowell": {
+    "_id": "unbound-knight-arowell",
+    "id": "c4004",
+    "name": "Unbound Knight Arowell",
+    "role": "knight"
+  },
+  "arunka": {
+    "_id": "arunka",
+    "id": "c1124",
+    "name": "Arunka",
+    "role": "warrior"
+  },
+  "savior-adin": {
+    "_id": "savior-adin",
+    "id": "c4144",
+    "name": "Savior Adin",
+    "role": "assassin"
+  },
+  "zio": {
+    "_id": "zio",
+    "id": "c1133",
+    "name": "Zio",
+    "role": "mage"
+  },
+  "aewinter": {
+    "_id": "aewinter",
+    "id": "c1139",
+    "name": "ae-WINTER",
+    "role": "assassin"
+  },
+  "aeningning": {
+    "_id": "aeningning",
+    "id": "c1140",
+    "name": "ae-NINGNING",
+    "role": "manauser"
+  },
+  "aegiselle": {
+    "_id": "aegiselle",
+    "id": "c1138",
+    "name": "ae-GISELLE",
+    "role": "mage"
+  },
+  "aekarina": {
+    "_id": "aekarina",
+    "id": "c1137",
+    "name": "ae-KARINA",
+    "role": "knight"
+  },
+  "death-dealer-ray": {
+    "_id": "death-dealer-ray",
+    "id": "c2090",
+    "name": "Death Dealer Ray",
+    "role": "manauser"
+  },
+  "shepherd-jena": {
+    "id": "c4052",
+    "_id": "shepherd-jena",
+    "name": "Shepherd Jena",
+    "role": "mage"
+  },
+  "beehoo": {
+    "id": "c1141",
+    "_id": "beehoo",
+    "name": "Beehoo",
+    "role": "ranger"
+  },
+  "peacemaker-furious": {
+    "id": "c2087",
+    "_id": "peacemaker-furious",
+    "name": "Peacemaker Furious",
+    "role": "ranger"
+  },
+  "juni": {
+    "id": "c3151",
+    "_id": "juni",
+    "name": "Juni",
+    "role": "warrior"
+  },
+  "talaz": {
+    "id": "c3152",
+    "_id": "talaz",
+    "name": "Talaz",
+    "role": "warrior"
+  },
+  "lilka": {
+    "id": "c3153",
+    "_id": "lilka",
+    "name": "Lilka",
+    "role": "ranger"
+  },
+  "talia": {
+    "id": "c3154",
+    "_id": "talia",
+    "name": "Talia",
+    "role": "assassin"
+  },
+  "suthan": {
+    "id": "c3155",
+    "_id": "suthan",
+    "name": "Suthan",
+    "role": "mage"
+  },
+  "lone-crescent-bellona": {
+    "id": "c2071",
+    "_id": "lone-crescent-bellona",
+    "name": "Lone Crescent Bellona",
+    "role": "warrior"
+  },
+  "amid": {
+    "id": "c1143",
+    "_id": "amid",
+    "name": "Amid",
+    "role": "manauser"
+  },
+  "eligos": {
+    "id": "c1142",
+    "_id": "eligos",
+    "name": "Eligos",
+    "role": "ranger"
+  },
+  "architect-laika": {
+    "id": "c2099",
+    "_id": "architect-laika",
+    "name": "Architect Laika",
+    "role": "mage"
+  },
+  "ainos-20": {
+    "id": "c4105",
+    "_id": "ainos-20",
+    "name": "Ainos 2.0",
+    "role": "manauser"
+  },
+  "twisted-eidolon-kayron": {
+    "id": "c2023",
+    "_id": "twisted-eidolon-kayron",
+    "name": "Twisted Eidolon Kayron",
+    "role": "assassin"
+  },
+  "benimaru": {
+    "id": "c1146",
+    "_id": "benimaru",
+    "name": "Benimaru",
+    "role": "warrior"
+  },
+  "abigail": {
+    "id": "c1144",
+    "_id": "abigail",
+    "name": "Abigail",
+    "role": "warrior"
+  },
+  "last-piece-karin": {
+    "id": "c6011",
+    "_id": "last-piece-karin",
+    "name": "Last Piece Karin",
+    "role": "assassin"
+  },
+  "requiem-roana": {
+    "id": "c2102",
+    "_id": "requiem-roana",
+    "name": "Requiem Roana",
+    "role": "mage"
+  },
+  "ocean-breeze-luluca": {
+    "id": "c5082",
+    "_id": "ocean-breeze-luluca",
+    "name": "Ocean Breeze Luluca",
+    "role": "manauser"
+  },
+  "lethe": {
+    "id": "c5149",
+    "_id": "lethe",
+    "name": "Lethe",
+    "role": "warrior"
+  },
+  "navy-captain-landy": {
+    "id": "c2109",
+    "_id": "navy-captain-landy",
+    "name": "Navy Captain Landy",
+    "role": "knight"
+  },
+  "infinite-horizon-achates": {
+    "id": "c6017",
+    "_id": "infinite-horizon-achates",
+    "name": "Infinite Horizon Achates",
+    "role": "manauser"
+  },
+  "brieg": {
+    "id": "c1145",
+    "_id": "brieg",
+    "name": "Brieg",
+    "role": "knight"
+  },
+  "veronica": {
+    "id": "c1150",
+    "_id": "veronica",
+    "name": "Veronica",
+    "role": "ranger"
+  },
+  "urban-shadow-choux": {
+    "id": "c2101",
+    "_id": "urban-shadow-choux",
+    "name": "Urban Shadow Choux",
+    "role": "warrior"
+  },
+  "midnight-gala-lilias": {
+    "id": "c5089",
+    "_id": "midnight-gala-lilias",
+    "name": "Midnight Gala Lilias",
+    "role": "assassin"
+  },
+  "nahkwol": {
+    "id": "c1151",
+    "_id": "nahkwol",
+    "name": "Nahkwol",
+    "role": "ranger"
+  },
+  "abyssal-yufine": {
+    "id": "c2016",
+    "_id": "abyssal-yufine",
+    "name": "Abyssal Yufine",
+    "role": "knight"
+  },
+  "kane": {
+    "id": "c1152",
+    "_id": "kane",
+    "name": "Kane",
+    "role": "warrior"
+  },
+  "claudia": {
+    "id": "c3156",
+    "_id": "claudia",
+    "name": "Claudia",
+    "role": "knight"
+  },
+  "ezra": {
+    "id": "c3157",
+    "_id": "ezra",
+    "name": "Ezra",
+    "role": "assassin"
+  },
+  "amiki": {
+    "id": "c3158",
+    "_id": "amiki",
+    "name": "Amiki",
+    "role": "warrior"
+  },
+  "fumyr": {
+    "id": "c1147",
+    "_id": "fumyr",
+    "name": "Fumyr",
+    "role": "mage"
+  },
+  "eternal-wanderer-ludwig": {
+    "id": "c2069",
+    "_id": "eternal-wanderer-ludwig",
+    "name": "Eternal Wanderer Ludwig",
+    "role": "mage"
+  },
+  "silvertide-christy": {
+    "id": "c4123",
+    "_id": "silvertide-christy",
+    "name": "Silvertide Christy",
+    "role": "knight"
+  },
+  "byblis": {
+    "id": "c1154",
+    "_id": "byblis",
+    "name": "Byblis",
+    "role": "ranger"
+  },
+  "blooming-lidica": {
+    "id": "c5046",
+    "_id": "blooming-lidica",
+    "name": "Blooming Lidica",
+    "role": "assassin"
+  },
+  "leah": {
+    "id": "c3163",
+    "_id": "leah",
+    "name": "Leah",
+    "role": "ranger"
+  },
+  "elvira": {
+    "id": "c1148",
+    "_id": "elvira",
+    "name": "Elvira",
+    "role": "assassin"
+  },
+  "dragon-king-sharun": {
+    "id": "c2132",
+    "_id": "dragon-king-sharun",
+    "name": "Dragon King Sharun",
+    "role": "manauser"
+  },
+  "laia": {
+    "id": "c1159",
+    "_id": "laia",
+    "name": "Laia",
+    "role": "warrior"
+  },
+  "jenua": {
+    "id": "c1055",
+    "_id": "jenua",
+    "name": "Jenua",
+    "role": "assassin"
+  },
+  "sea-phantom-politis": {
+    "id": "c2112",
+    "_id": "sea-phantom-politis",
+    "name": "Sea Phantom Politis",
+    "role": "ranger"
+  },
+  "ragnvald": {
+    "id": "c3164",
+    "_id": "ragnvald",
+    "name": "Ragnvald",
+    "role": "assassin"
+  },
+  "pernilla": {
+    "id": "c3165",
+    "_id": "pernilla",
+    "name": "Pernilla",
+    "role": "warrior"
+  },
+  "ainz-ooal-gown": {
+    "id": "c1155",
+    "_id": "ainz-ooal-gown",
+    "name": "Ainz Ooal Gown",
+    "role": "mage"
+  },
+  "albedo": {
+    "id": "c1156",
+    "_id": "albedo",
+    "name": "Albedo",
+    "role": "knight"
+  },
+  "shalltear": {
+    "id": "c1157",
+    "_id": "shalltear",
+    "name": "Shalltear",
+    "role": "warrior"
+  },
+  "wandering-prince-cidd": {
+    "id": "c6014",
+    "_id": "wandering-prince-cidd",
+    "name": "Wandering Prince Cidd",
+    "role": "mage"
+  },
+  "dragon-bride-senya": {
+    "id": "c2106",
+    "_id": "dragon-bride-senya",
+    "name": "Dragon Bride Senya",
+    "role": "knight"
+  },
+  "birgitta": {
+    "id": "c1160",
+    "_id": "birgitta",
+    "name": "Birgitta",
+    "role": "manauser"
+  },
+  "bernard": {
+    "id": "c3162",
+    "_id": "bernard",
+    "name": "Bernard",
+    "role": "manauser"
+  },
+  "immortal-wukong": {
+    "id": "c1161",
+    "_id": "immortal-wukong",
+    "name": "Immortal Wukong",
+    "role": "warrior"
+  },
+  "new-moon-luna": {
+    "id": "c2066",
+    "_id": "new-moon-luna",
+    "name": "New Moon Luna",
+    "role": "mage"
+  },
+  "festive-eda": {
+    "id": "c5111",
+    "_id": "festive-eda",
+    "name": "Festive Eda",
+    "role": "mage"
+  },
+  "empyrean-ilynav": {
+    "id": "c2113",
+    "_id": "empyrean-ilynav",
+    "name": "Empyrean Ilynav",
+    "role": "knight"
+  },
+  "frida": {
+    "id": "c1163",
+    "_id": "frida",
+    "name": "Frida",
+    "role": "manauser"
+  },
+  "harsetti": {
+    "id": "c1153",
+    "_id": "harsetti",
+    "name": "Harsetti",
+    "role": "mage"
+  },
+  "fenris": {
+    "id": "c1158",
+    "_id": "fenris",
+    "name": "Fenris",
+    "role": "ranger"
+  },
+  "revna": {
+    "id": "c3160",
+    "_id": "revna",
+    "name": "Revna",
+    "role": "assassin"
+  },
+  "inheritor-amiki": {
+    "id": "c4158",
+    "_id": "inheritor-amiki",
+    "name": "Inheritor Amiki",
+    "role": "warrior"
+  },
+  "afternoon-soak-flan": {
+    "id": "c5110",
+    "_id": "afternoon-soak-flan",
+    "name": "Afternoon Soak Flan",
+    "role": "ranger"
+  },
+  "hellion-lua": {
+    "id": "c2126",
+    "_id": "hellion-lua",
+    "name": "Hellion Lua",
+    "role": "ranger"
+  },
+  "schniel": {
+    "id": "c1060",
+    "_id": "schniel",
+    "name": "Schniel",
+    "role": "manauser"
+  },
+  "young-senya": {
+    "id": "c1162",
+    "_id": "young-senya",
+    "name": "Young Senya",
+    "role": "manauser"
+  },
+  "westwind-executioner-schuri": {
+    "id": "c6020",
+    "_id": "westwind-executioner-schuri",
+    "name": "Westwind Executioner Schuri",
+    "role": "ranger"
+  },
+  "bystander-hwayoung": {
+    "id": "c2128",
+    "_id": "bystander-hwayoung",
+    "name": "Bystander Hwayoung",
+    "role": "warrior"
+  },
+  "new-kid-adin": {
+    "id": "c2165",
+    "_id": "new-kid-adin",
+    "name": "New Kid Adin",
+    "role": "assassin"
+  },
+  "fenne": {
+    "id": "c1170",
+    "_id": "fenne",
+    "name": "Fenne",
+    "role": "manauser"
+  },
+  "lone-wolf-peira": {
+    "id": "c2125",
+    "_id": "lone-wolf-peira",
+    "name": "Lone Wolf Peira",
+    "role": "warrior"
+  },
+  "tori": {
+    "id": "c1171",
+    "_id": "tori",
+    "name": "Tori",
+    "role": "assassin"
+  },
+  "successor-taeyou": {
+    "id": "c2127",
+    "_id": "successor-taeyou",
+    "name": "Successor Taeyou",
+    "role": "warrior"
+  },
+  "boss-arunka": {
+    "id": "c2124",
+    "_id": "boss-arunka",
+    "name": "Boss Arunka",
+    "role": "knight"
+  },
+  "victorika": {
+    "id": "c1166",
+    "_id": "victorika",
+    "name": "Victorika",
+    "role": "knight"
+  },
+  "guard-captain-krau": {
+    "id": "c5070",
+    "_id": "guard-captain-krau",
+    "name": "Guard Captain Krau",
+    "role": "warrior"
+  },
+  "rinak": {
+    "id": "c1168",
+    "_id": "rinak",
+    "name": "Rinak",
+    "role": "assassin"
+  },
+  "robin": {
+    "id": "c1169",
+    "_id": "robin",
+    "name": "Robin",
+    "role": "ranger"
+  },
+  "disciplinary-prefect-aria": {
+    "id": "c2129",
+    "_id": "disciplinary-prefect-aria",
+    "name": "Disciplinary Prefect Aria",
+    "role": "warrior"
+  },
+  "argent-waves-hwayoung": {
+    "id": "c5128",
+    "_id": "argent-waves-hwayoung",
+    "name": "Argent Waves Hwayoung",
+    "role": "assassin"
+  },
+  "witch-of-the-mere-tenebria": {
+    "id": "c6050",
+    "_id": "witch-of-the-mere-tenebria",
+    "name": "Witch of the Mere Tenebria",
+    "role": "mage"
+  },
+  "aram": {
+    "id": "c5175",
+    "_id": "aram",
+    "name": "Aram",
+    "role": "manauser"
+  },
+  "lady-of-the-scales": {
+    "id": "c6005",
+    "_id": "lady-of-the-scales",
+    "name": "Lady of the Scales",
+    "role": "manauser"
+  },
+  "genesis-ras": {
+    "id": "c2001",
+    "_id": "genesis-ras",
+    "name": "Genesis Ras",
+    "role": "knight"
+  },
+  "setsuka": {
+    "id": "c1176",
+    "_id": "setsuka",
+    "name": "Setsuka",
+    "role": "assassin"
+  },
+  "wretched-rose": {
+    "id": "c6003",
+    "_id": "wretched-rose",
+    "name": "Wretched Rose",
+    "role": "manauser"
+  },
+  "frieren": {
+    "id": "c1172",
+    "_id": "frieren",
+    "name": "Frieren",
+    "role": "mage"
+  },
+  "fern": {
+    "id": "c1173",
+    "_id": "fern",
+    "name": "Fern",
+    "role": "mage"
+  },
+  "stark": {
+    "id": "c1174",
+    "_id": "stark",
+    "name": "Stark",
+    "role": "warrior"
+  },
+  "saria": {
+    "id": "c1177",
+    "_id": "saria",
+    "name": "Saria",
+    "role": "ranger"
+  },
+  "school-nurse-yulha": {
+    "id": "c2131",
+    "_id": "school-nurse-yulha",
+    "name": "School Nurse Yulha",
+    "role": "assassin"
+  },
+  "swift-flagbearer-sigret": {
+    "id": "c5072",
+    "_id": "swift-flagbearer-sigret",
+    "name": "Swift Flagbearer Sigret",
+    "role": "assassin"
+  },
+  "sealed-eye-surin": {
+    "id": "c6065",
+    "_id": "sealed-eye-surin",
+    "name": "Sealed Eye Surin",
+    "role": "mage"
+  },
+  "hecate": {
+    "id": "c1178",
+    "_id": "hecate",
+    "name": "Hecate",
+    "role": "warrior"
+  },
+  "shepherd-of-the-dark-diene": {
+    "id": "c2076",
+    "_id": "shepherd-of-the-dark-diene",
+    "name": "Shepherd of the Dark Diene",
+    "role": "mage"
+  },
+  "aki": {
+    "id": "c1179",
+    "_id": "aki",
+    "name": "Aki",
+    "role": "warrior"
+  },
+  "monarch-of-the-sword-iseria": {
+    "id": "c6024",
+    "_id": "monarch-of-the-sword-iseria",
+    "name": "Monarch of the Sword Iseria",
+    "role": "knight"
+  },
+  "ruiza": {
+    "id": "c1180",
+    "_id": "ruiza",
+    "name": "Ruiza",
+    "role": "ranger"
+  },
+  "tactical-archetype-coli": {
+    "id": "c5033",
+    "_id": "tactical-archetype-coli",
+    "name": "Tactical Archetype Coli",
+    "role": "assassin"
+  },
+  "notos": {
+    "id": "c2181",
+    "_id": "notos",
+    "name": "Notos",
+    "role": "knight"
+  },
+  "perfumer-byblis": {
+    "id": "c5154",
+    "_id": "perfumer-byblis",
+    "name": "Perfumer Byblis",
+    "role": "manauser"
+  },
+  "salome": {
+    "id": "c2184",
+    "_id": "salome",
+    "name": "Salome",
+    "role": "warrior"
+  },
+  "estelle": {
+    "id": "c1183",
+    "_id": "estelle",
+    "name": "Estelle",
+    "role": "knight"
+  }
+}
