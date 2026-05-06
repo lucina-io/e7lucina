@@ -14,11 +14,19 @@ export const exampleTeam = {
   thirdChar: { name: "", artifact: "", hp: "", sets: [], misc: "", cr: "" },
 };
 
-function PlayerSpeedRow({ hero, speed, instanceId, onHeroChange, onSpeedChange }) {
+function PlayerSpeedRow({
+  hero,
+  speed,
+  instanceId,
+  onHeroChange,
+  onSpeedChange,
+}) {
   return (
     <div className="pt-4">
       <p className="text-xs text-gray-400 mb-1">
-        Optional — only fill this in if your unit took the first turn in T1. Select that hero and enter their speed to generate enemy speed ranges in the report.
+        Optional — only fill this in if your unit took the first turn. Select
+        that hero and enter their speed to generate enemy speed ranges in the
+        report.
       </p>
       <div className="flex gap-2">
         <div className="flex-1">
@@ -107,8 +115,12 @@ export default function Home() {
             hero={t1PlayerHero}
             speed={t1PlayerSpeed}
             instanceId="t1-player-hero"
-            onHeroChange={(h) => handleHeroChange(h, setT1PlayerHero, setT1PlayerSpeed)}
-            onSpeedChange={(e) => handleSpeedChange(e, t1PlayerHero, setT1PlayerSpeed)}
+            onHeroChange={(h) =>
+              handleHeroChange(h, setT1PlayerHero, setT1PlayerSpeed)
+            }
+            onSpeedChange={(e) =>
+              handleSpeedChange(e, t1PlayerHero, setT1PlayerSpeed)
+            }
           />
           <Character unit={1} info={t1} setInfo={setT1} />
           <div className="h-px w-full bg-[#393E46] mt-8" />
@@ -123,8 +135,12 @@ export default function Home() {
             hero={t2PlayerHero}
             speed={t2PlayerSpeed}
             instanceId="t2-player-hero"
-            onHeroChange={(h) => handleHeroChange(h, setT2PlayerHero, setT2PlayerSpeed)}
-            onSpeedChange={(e) => handleSpeedChange(e, t2PlayerHero, setT2PlayerSpeed)}
+            onHeroChange={(h) =>
+              handleHeroChange(h, setT2PlayerHero, setT2PlayerSpeed)
+            }
+            onSpeedChange={(e) =>
+              handleSpeedChange(e, t2PlayerHero, setT2PlayerSpeed)
+            }
           />
           <Character unit={1} info={t2} setInfo={setT2} />
           <div className="h-px w-full bg-[#393E46] mt-8" />
