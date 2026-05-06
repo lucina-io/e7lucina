@@ -4,6 +4,17 @@ import heroes from "./heroes";
 import artifacts from "./artifacts";
 import sets from "./sets";
 
+const HERO_CR_PUSH = { Zio: 30 };
+
+export function speedRange(playerSpeed, cr, heroName) {
+  if (!playerSpeed || !cr) return null;
+  const push = HERO_CR_PUSH[heroName] || 0;
+  const effectiveSpeed =
+    push > 0 ? playerSpeed / (1 - push / 100) : playerSpeed;
+  const base = effectiveSpeed * (Number(cr) / 100);
+  return `${Math.floor(base * 0.95)}-${Math.ceil(base * 1.05)}`;
+}
+
 export default function Character({ unit, info, setInfo }) {
   let number = null;
 
@@ -24,7 +35,6 @@ export default function Character({ unit, info, setInfo }) {
   const updateTeam = (field, val) => {
     const updatedTeam = structuredClone(info);
     updatedTeam[number][field] = val;
-
     setInfo(updatedTeam);
   };
 
@@ -33,6 +43,7 @@ export default function Character({ unit, info, setInfo }) {
   const defaultHp = info[number].hp;
   const defaultSets = info[number].sets;
   const defaultMisc = info[number].misc;
+  const defaultCr = info[number].cr;
 
   return (
     <section className="pt-8">
@@ -43,6 +54,7 @@ export default function Character({ unit, info, setInfo }) {
           placeholder="Character"
           value={defaultHero}
           isClearable
+          instanceId={`${number}-hero`}
           onChange={(hero) => updateTeam("name", hero)}
         />
         <Select
@@ -51,6 +63,7 @@ export default function Character({ unit, info, setInfo }) {
           placeholder="Artifact"
           value={defaultArti && defaultArti}
           isClearable
+          instanceId={`${number}-artifact`}
           onChange={(artifact) => updateTeam("artifact", artifact)}
         />
         <input
@@ -70,15 +83,29 @@ export default function Character({ unit, info, setInfo }) {
           value={defaultSets}
           isClearable
           isMulti
+          instanceId={`${number}-sets`}
           onChange={(sets) => updateTeam("sets", sets)}
         />
-        <input
-          type="text"
-          placeholder="Extra info: EEs, high eff/er, etc."
-          className="border px-2 py-1 rounded-sm col-span-1 md:col-span-2"
-          value={defaultMisc}
-          onChange={(misc) => updateTeam("misc", misc.target.value)}
-        />
+        <div className="flex gap-2 col-span-1 md:col-span-2 lg:col-span-2">
+          <input
+            type="number"
+            placeholder="CR% (opt)"
+            className="border px-2 py-1 rounded-sm w-28 shrink-0"
+            value={defaultCr > 0 ? defaultCr : ""}
+            min={1}
+            max={100}
+            onChange={(e) =>
+              updateTeam("cr", e.target.value ? Number(e.target.value) : "")
+            }
+          />
+          <input
+            type="text"
+            placeholder="Extra info: EEs, high eff/er, etc."
+            className="border px-2 py-1 rounded-sm flex-1 min-w-0"
+            value={defaultMisc}
+            onChange={(misc) => updateTeam("misc", misc.target.value)}
+          />
+        </div>
       </Form>
     </section>
   );

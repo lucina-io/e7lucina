@@ -1,10 +1,33 @@
-const exampleTeam = {
-  firstChar: { name: "", artifact: "", hp: "", sets: [], misc: "" },
-  secondChar: { name: "", artifact: "", hp: "", sets: [], misc: "" },
-  thirdChar: { name: "", artifact: "", hp: "", sets: [], misc: "" },
-};
+import { useState, useEffect } from "react";
+import { exampleTeam } from "./page";
+import { speedRange } from "./character";
 
-export default function Report({ player, t1, t2, setT1, setT2, setTower }) {
+export default function Report({ player, t1, t2, setT1, setT2, setTower, t1PlayerHero, t1PlayerSpeed, t2PlayerHero, t2PlayerSpeed, setT1PlayerHero, setT1PlayerSpeed, setT2PlayerHero, setT2PlayerSpeed }) {
+  const [copied, setCopied] = useState(false);
+  const [confirmReset, setConfirmReset] = useState(false);
+
+  useEffect(() => {
+    if (!confirmReset) return;
+    const t = setTimeout(() => setConfirmReset(false), 10000);
+    return () => clearTimeout(t);
+  }, [confirmReset]);
+
+  const handleCopy = () => {
+    navigator.clipboard.writeText(discordText);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  const handleReset = () => {
+    setT1(exampleTeam);
+    setT2(exampleTeam);
+    setTower("");
+    setT1PlayerHero(null);
+    setT1PlayerSpeed("");
+    setT2PlayerHero(null);
+    setT2PlayerSpeed("");
+    setConfirmReset(false);
+  };
   const t1FirstCharName = t1.firstChar.name?.value;
   const t1FirstCharArtifact = t1.firstChar.artifact?.value;
   const t1FirstCharHP = t1.firstChar?.hp;
@@ -37,95 +60,36 @@ export default function Report({ player, t1, t2, setT1, setT2, setTower }) {
   const t2ThirdCharMisc = t2.thirdChar?.misc;
 
   const textBuilder = () => {
-    const t1FirstCharString = [
-      t1FirstCharName,
-      t1FirstCharArtifact,
-      t1FirstCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t1FirstCharHP)} HP`,
-      t1FirstCharSets.map((set) => set.value).join(" + "),
-      t1FirstCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
+    const fmt = (hp) =>
+      hp
+        ? `${new Intl.NumberFormat("en", {
+            notation: "compact",
+            roundingMode: "ceil",
+            maximumFractionDigits: 2,
+          }).format(hp)} HP`
+        : null;
 
-    const t1SecondCharString = [
-      t1SecondCharName,
-      t1SecondCharArtifact,
-      t1SecondCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t1SecondCharHP)} HP`,
-      t1SecondCharSets.map((set) => set.value).join(" + "),
-      t1SecondCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
+    const charString = (name, artifact, hp, sets, cr, misc, playerSpeed, heroName) =>
+      [
+        name,
+        artifact,
+        fmt(hp),
+        sets.map((s) => s.value).join(" + "),
+        speedRange(playerSpeed, cr, heroName),
+        misc,
+      ]
+        .filter(Boolean)
+        .join(" - ");
 
-    const t1ThirdCharString = [
-      t1ThirdCharName,
-      t1ThirdCharArtifact,
-      t1ThirdCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t1ThirdCharHP)} HP`,
-      t1ThirdCharSets.map((set) => set.value).join(" + "),
-      t1ThirdCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
+    const t1Hero = t1PlayerHero?.value;
+    const t2Hero = t2PlayerHero?.value;
 
-    const t2FirstCharString = [
-      t2FirstCharName,
-      t2FirstCharArtifact,
-      t2FirstCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t2FirstCharHP)} HP`,
-      t2FirstCharSets.map((set) => set.value).join(" + "),
-      t2FirstCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
-
-    const t2SecondCharString = [
-      t2SecondCharName,
-      t2SecondCharArtifact,
-      t2SecondCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t2SecondCharHP)} HP`,
-      t2SecondCharSets.map((set) => set.value).join(" + "),
-      t2SecondCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
-
-    const t2ThirdCharString = [
-      t2ThirdCharName,
-      t2ThirdCharArtifact,
-      t2ThirdCharHP &&
-        `${new Intl.NumberFormat("en", {
-          notation: "compact",
-          roundingMode: "ceil",
-          maximumFractionDigits: 2,
-        }).format(t2ThirdCharHP)} HP`,
-      t2ThirdCharSets.map((set) => set.value).join(" + "),
-      t2ThirdCharMisc,
-    ]
-      .filter(Boolean)
-      .join(" - ");
+    const t1FirstCharString = charString(t1FirstCharName, t1FirstCharArtifact, t1FirstCharHP, t1FirstCharSets, t1.firstChar.cr, t1FirstCharMisc, t1PlayerSpeed, t1Hero);
+    const t1SecondCharString = charString(t1SecondCharName, t1SecondCharArtifact, t1SecondCharHP, t1SecondCharSets, t1.secondChar.cr, t1SecondCharMisc, t1PlayerSpeed, t1Hero);
+    const t1ThirdCharString = charString(t1ThirdCharName, t1ThirdCharArtifact, t1ThirdCharHP, t1ThirdCharSets, t1.thirdChar.cr, t1ThirdCharMisc, t1PlayerSpeed, t1Hero);
+    const t2FirstCharString = charString(t2FirstCharName, t2FirstCharArtifact, t2FirstCharHP, t2FirstCharSets, t2.firstChar.cr, t2FirstCharMisc, t2PlayerSpeed, t2Hero);
+    const t2SecondCharString = charString(t2SecondCharName, t2SecondCharArtifact, t2SecondCharHP, t2SecondCharSets, t2.secondChar.cr, t2SecondCharMisc, t2PlayerSpeed, t2Hero);
+    const t2ThirdCharString = charString(t2ThirdCharName, t2ThirdCharArtifact, t2ThirdCharHP, t2ThirdCharSets, t2.thirdChar.cr, t2ThirdCharMisc, t2PlayerSpeed, t2Hero);
 
     return `${player && `# ${player}`}
 ${
@@ -155,21 +119,34 @@ ${[t2FirstCharString, t2SecondCharString, t2ThirdCharString]
     <section className="mt-8">
       <div className="flex flex-col sm:flex-row gap-2">
         <button
-          className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
-          onClick={() => navigator.clipboard.writeText(discordText)}
+          className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46] transition-all active:scale-95 active:opacity-70 w-24"
+          onClick={handleCopy}
         >
-          Copy Text
+          {copied ? "Copied!" : "Copy Text"}
         </button>
-        <button
-          className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46]"
-          onClick={() => {
-            setT1(exampleTeam);
-            setT2(exampleTeam);
-            setTower("");
-          }}
-        >
-          Reset Form
-        </button>
+        {confirmReset ? (
+          <div className="flex gap-2">
+            <button
+              className="border border-red-400 text-red-400 px-2 py-1 rounded-sm cursor-pointer hover:bg-red-400 hover:text-white transition-all active:scale-95"
+              onClick={handleReset}
+            >
+              Confirm Reset
+            </button>
+            <button
+              className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46] transition-all active:scale-95 active:opacity-70"
+              onClick={() => setConfirmReset(false)}
+            >
+              Cancel
+            </button>
+          </div>
+        ) : (
+          <button
+            className="border px-2 py-1 rounded-sm cursor-pointer hover:bg-[#393E46] transition-all active:scale-95 active:opacity-70"
+            onClick={() => setConfirmReset(true)}
+          >
+            Reset Form
+          </button>
+        )}
       </div>
       <textarea
         className="border w-full rounded-sm p-2 h-64 sm:h-80 mt-4"
