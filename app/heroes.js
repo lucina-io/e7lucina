@@ -684,6 +684,10 @@ const heroes = [
     value: "Iseria",
   },
   {
+    label: "Ivana",
+    value: "Ivana",
+  },
+  {
     label: "Jack-O'",
     value: "Jack-O'",
   },

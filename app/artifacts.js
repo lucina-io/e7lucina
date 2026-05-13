@@ -336,6 +336,10 @@ const artifacts = [
     value: "Exorcist's Tonfa",
   },
   {
+    label: "Excommunicant's Censer",
+    value: "Excommunicant's Censer",
+  },
+  {
     label: "Fairy Tale for a Nightmare",
     value: "Fairy Tale for a Nightmare",
   },
