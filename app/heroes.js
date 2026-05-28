@@ -1092,6 +1092,10 @@ const heroes = [
     value: "Revna",
   },
   {
+    label: "Rhianna and Luciella",
+    value: "Rhianna and Luciella",
+  },
+  {
     label: "Righteous Thief Roozid",
     value: "Righteous Thief Roozid",
   },
