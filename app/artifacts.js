@@ -88,6 +88,10 @@ const artifacts = [
     value: "Atma's Portal",
   },
   {
+    label: "Aubade Orb",
+    value: "Aubade Orb",
+  },
+  {
     label: "Aurius",
     value: "Aurius",
   },
@@ -166,6 +170,10 @@ const artifacts = [
   {
     label: "Butterfly Mandolin",
     value: "Butterfly Mandolin",
+  },
+  {
+    label: "Butterfly's Baptism",
+    value: "Butterfly's Baptism",
   },
   {
     label: "Card of Small Miracles",

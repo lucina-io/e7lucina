@@ -152,6 +152,10 @@ const heroes = [
     value: "Astromancer Elena",
   },
   {
+    label: "Aubade Ludwig",
+    value: "Aubade Ludwig",
+  },
+  {
     label: "Auxiliary Lots",
     value: "Auxiliary Lots",
   },
