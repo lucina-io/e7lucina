@@ -696,6 +696,10 @@ const artifacts = [
     value: "Records of Unity",
   },
   {
+    label: "Refracted Desire",
+    value: "Refracted Desire",
+  },
+  {
     label: "Reingar Festival Dumpling",
     value: "Reingar Festival Dumpling",
   },

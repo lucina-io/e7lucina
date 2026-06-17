@@ -508,6 +508,10 @@ const heroes = [
     value: "Eternal Wanderer Ludwig",
   },
   {
+    label: "Eye of the Abyss Fumyr",
+    value: "Eye of the Abyss Fumyr",
+  },
+  {
     label: "Ezra",
     value: "Ezra",
   },
