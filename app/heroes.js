@@ -24,6 +24,22 @@ const heroes = [
     value: "Adventurer Ras",
   },
   {
+    label: "ae-GISELLE",
+    value: "ae-GISELLE",
+  },
+  {
+    label: "ae-KARINA",
+    value: "ae-KARINA",
+  },
+  {
+    label: "ae-NINGNING",
+    value: "ae-NINGNING",
+  },
+  {
+    label: "ae-WINTER",
+    value: "ae-WINTER",
+  },
+  {
     label: "Afternoon Soak Flan",
     value: "Afternoon Soak Flan",
   },
@@ -154,6 +170,10 @@ const heroes = [
   {
     label: "Aubade Ludwig",
     value: "Aubade Ludwig",
+  },
+  {
+    label: "Aube",
+    value: "Aube",
   },
   {
     label: "Auxiliary Lots",
@@ -840,6 +860,10 @@ const heroes = [
     value: "Lionheart Cermia",
   },
   {
+    label: "Lisette",
+    value: "Lisette",
+  },
+  {
     label: "Little Queen Charlotte",
     value: "Little Queen Charlotte",
   },
@@ -1196,12 +1220,12 @@ const heroes = [
     value: "Schuri",
   },
   {
-    label: "Sealed Eye Surin",
-    value: "Sealed Eye Surin",
-  },
-  {
     label: "Sea Phantom Politis",
     value: "Sea Phantom Politis",
+  },
+  {
+    label: "Sealed Eye Surin",
+    value: "Sealed Eye Surin",
   },
   {
     label: "Seaside Bellona",
@@ -1384,6 +1408,10 @@ const heroes = [
     value: "Tenebria",
   },
   {
+    label: "Tidal Rift Elvira",
+    value: "Tidal Rift Elvira",
+  },
+  {
     label: "Tieria",
     value: "Tieria",
   },
@@ -1410,6 +1438,10 @@ const heroes = [
   {
     label: "Unbound Knight Arowell",
     value: "Unbound Knight Arowell",
+  },
+  {
+    label: "Uncharted Pioneer Politis",
+    value: "Uncharted Pioneer Politis",
   },
   {
     label: "Urban Shadow Choux",
@@ -1510,38 +1542,6 @@ const heroes = [
   {
     label: "Zio",
     value: "Zio",
-  },
-  {
-    label: "ae-GISELLE",
-    value: "ae-GISELLE",
-  },
-  {
-    label: "ae-KARINA",
-    value: "ae-KARINA",
-  },
-  {
-    label: "ae-NINGNING",
-    value: "ae-NINGNING",
-  },
-  {
-    label: "ae-WINTER",
-    value: "ae-WINTER",
-  },
-  {
-    label: "Tidal Rift Elvira",
-    value: "Tidal Rift Elvira",
-  },
-  {
-    label: "Aube",
-    value: "Aube",
-  },
-  {
-    label: "Lisette",
-    value: "Lisette",
-  },
-  {
-    label: "Uncharted Pioneer Politis",
-    value: "Uncharted Pioneer Politis",
   },
 ];
 

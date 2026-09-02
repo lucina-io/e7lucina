@@ -296,10 +296,6 @@ const artifacts = [
     value: "Dux Noctis",
   },
   {
-    label: "EXIF Detective (E.d.) Gadget",
-    value: "EXIF Detective (E.d.) Gadget",
-  },
-  {
     label: "Egg of Delusion",
     value: "Egg of Delusion",
   },
@@ -340,12 +336,16 @@ const artifacts = [
     value: "Etica's Scepter",
   },
   {
-    label: "Exorcist's Tonfa",
-    value: "Exorcist's Tonfa",
-  },
-  {
     label: "Excommunicant's Censer",
     value: "Excommunicant's Censer",
+  },
+  {
+    label: "EXIF Detective (E.d.) Gadget",
+    value: "EXIF Detective (E.d.) Gadget",
+  },
+  {
+    label: "Exorcist's Tonfa",
+    value: "Exorcist's Tonfa",
   },
   {
     label: "Fairy Tale for a Nightmare",
@@ -396,16 +396,16 @@ const artifacts = [
     value: "Gifted Pen",
   },
   {
+    label: "Glo-Wings 21",
+    value: "Glo-Wings 21",
+  },
+  {
     value: "Glorious Flag",
     label: "Glorious Flag",
   },
   {
     label: "Glorious Throne",
     value: "Glorious Throne",
-  },
-  {
-    label: "Glo-Wings 21",
-    value: "Glo-Wings 21",
   },
   {
     label: "Goblet of Oath",
@@ -460,14 +460,6 @@ const artifacts = [
     value: "Hostess of the Banquet",
   },
   {
-    label: "III. The Empress",
-    value: "III. The Empress",
-  },
-  {
-    label: "IV. The Emperor",
-    value: "IV. The Emperor",
-  },
-  {
     label: "Idol's Cheer",
     value: "Idol's Cheer",
   },
@@ -480,6 +472,10 @@ const artifacts = [
     value: "Ignition Cloth Gloves",
   },
   {
+    label: "III. The Empress",
+    value: "III. The Empress",
+  },
+  {
     label: "Indestructible Gaiters",
     value: "Indestructible Gaiters",
   },
@@ -488,8 +484,16 @@ const artifacts = [
     value: "Infinity Basket",
   },
   {
+    label: "Intoxicating Indulgence",
+    value: "Intoxicating Indulgence",
+  },
+  {
     label: "Iron Fan",
     value: "Iron Fan",
+  },
+  {
+    label: "IV. The Emperor",
+    value: "IV. The Emperor",
   },
   {
     label: "Jack-O's Symbol",
@@ -526,6 +530,10 @@ const artifacts = [
   {
     label: "Lethal Whispers",
     value: "Lethal Whispers",
+  },
+  {
+    label: "Light and Darkness",
+    value: "Light and Darkness",
   },
   {
     label: "Love Potion",
@@ -712,10 +720,6 @@ const artifacts = [
     value: "Renewed Will",
   },
   {
-    label: "Ritual of Sealing Flames",
-    value: "Ritual of Sealing Flames",
-  },
-  {
     label: "Resolute Soldier Series",
     value: "Resolute Soldier Series",
   },
@@ -726,6 +730,10 @@ const artifacts = [
   {
     label: "Rise of a Monarch",
     value: "Rise of a Monarch",
+  },
+  {
+    label: "Ritual of Sealing Flames",
+    value: "Ritual of Sealing Flames",
   },
   {
     label: "Rocket Punch Gauntlet",
@@ -832,12 +840,12 @@ const artifacts = [
     value: "Spatiotemporal Fan",
   },
   {
-    label: "Spear of Purification",
-    value: "Spear of Purification",
-  },
-  {
     label: "Spear of a New Dawn",
     value: "Spear of a New Dawn",
+  },
+  {
+    label: "Spear of Purification",
+    value: "Spear of Purification",
   },
   {
     label: "Special Strawberry Cake",
@@ -924,16 +932,16 @@ const artifacts = [
     value: "Sword of Summer Twilight",
   },
   {
-    label: "Sword of Winter Shadow",
-    value: "Sword of Winter Shadow",
-  },
-  {
     label: "Sword of the Morning",
     value: "Sword of the Morning",
   },
   {
     label: "Sword of the Sun",
     value: "Sword of the Sun",
+  },
+  {
+    label: "Sword of Winter Shadow",
+    value: "Sword of Winter Shadow",
   },
   {
     label: "Tagehel's Ancient Book",
@@ -1008,14 +1016,6 @@ const artifacts = [
     value: "Upgraded Dragon Knuckles",
   },
   {
-    label: "VI. The Lovers",
-    value: "VI. The Lovers",
-  },
-  {
-    label: "VII. The Chariot",
-    value: "VII. The Chariot",
-  },
-  {
     label: "Venus Orb",
     value: "Venus Orb",
   },
@@ -1024,8 +1024,16 @@ const artifacts = [
     value: "Veritas",
   },
   {
+    label: "VI. The Lovers",
+    value: "VI. The Lovers",
+  },
+  {
     label: "Victorious Flag",
     value: "Victorious Flag",
+  },
+  {
+    label: "VII. The Chariot",
+    value: "VII. The Chariot",
   },
   {
     label: "Violet Talisman",
@@ -1090,14 +1098,6 @@ const artifacts = [
   {
     label: "XVIII. The Moon",
     value: "XVIII. The Moon",
-  },
-  {
-    label: "Light and Darkness",
-    value: "Light and Darkness",
-  },
-  {
-    label: "Intoxicating Indulgence",
-    value: "Intoxicating Indulgence",
   },
 ];
 
