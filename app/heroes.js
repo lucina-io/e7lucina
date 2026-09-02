@@ -1527,6 +1527,22 @@ const heroes = [
     label: "ae-WINTER",
     value: "ae-WINTER",
   },
+  {
+    label: "Tidal Rift Elvira",
+    value: "Tidal Rift Elvira",
+  },
+  {
+    label: "Aube",
+    value: "Aube",
+  },
+  {
+    label: "Lisette",
+    value: "Lisette",
+  },
+  {
+    label: "Uncharted Pioneer Politis",
+    value: "Uncharted Pioneer Politis",
+  },
 ];
 
 export default heroes;

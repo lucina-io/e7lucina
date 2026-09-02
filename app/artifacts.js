@@ -1053,7 +1053,7 @@ const artifacts = [
   },
   {
     label: "With a Little Friend",
-    value: "With a Little Friend"
+    value: "With a Little Friend",
   },
   {
     label: "Wondrous Potion Vial",
@@ -1090,6 +1090,14 @@ const artifacts = [
   {
     label: "XVIII. The Moon",
     value: "XVIII. The Moon",
+  },
+  {
+    label: "Light and Darkness",
+    value: "Light and Darkness",
+  },
+  {
+    label: "Intoxicating Indulgence",
+    value: "Intoxicating Indulgence",
   },
 ];
 
