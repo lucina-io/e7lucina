@@ -228,6 +228,10 @@ const artifacts = [
     value: "Cursed Compass",
   },
   {
+    label: "Custom-Made Power Anchor",
+    value: "Custom-Made Power Anchor",
+  },
+  {
     label: "Cutie Pando",
     value: "Cutie Pando",
   },
@@ -400,8 +404,8 @@ const artifacts = [
     value: "Glo-Wings 21",
   },
   {
-    value: "Glorious Flag",
     label: "Glorious Flag",
+    value: "Glorious Flag",
   },
   {
     label: "Glorious Throne",
@@ -522,6 +526,10 @@ const artifacts = [
   {
     label: "Labyrinth Cube",
     value: "Labyrinth Cube",
+  },
+  {
+    label: "Land of Lingering Light",
+    value: "Land of Lingering Light",
   },
   {
     label: "Last Teatime",
@@ -834,6 +842,10 @@ const artifacts = [
   {
     label: "Song of Stars",
     value: "Song of Stars",
+  },
+  {
+    label: "Sorrow of the Rose",
+    value: "Sorrow of the Rose",
   },
   {
     label: "Spatiotemporal Fan",

@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync-pool": "node scripts/sync-pool.mjs"
   },
   "dependencies": {
     "jimp": "^1.6.1",

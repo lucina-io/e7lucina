@@ -636,6 +636,10 @@ const heroes = [
     value: "Harsetti",
   },
   {
+    label: "Haru",
+    value: "Haru",
+  },
+  {
     label: "Hasol",
     value: "Hasol",
   },
@@ -1106,6 +1110,10 @@ const heroes = [
   {
     label: "Remnant Violet",
     value: "Remnant Violet",
+  },
+  {
+    label: "Renoa",
+    value: "Renoa",
   },
   {
     label: "Requiem Roana",

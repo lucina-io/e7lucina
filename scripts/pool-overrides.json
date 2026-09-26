@@ -1,0 +1,17 @@
+{
+  "heroes": {
+    "ignore": {
+      "c6023": "Acolyte of the End Kayron — E7WC boss, not playable"
+    },
+    "rename": {}
+  },
+  "artifacts": {
+    "ignore": {
+      "art0239": "Unleashed Axe of Heavenly Mandate — no class, never in the pool"
+    },
+    "rename": {
+      "art0224": "Jumbo Berry Special",
+      "art0250": "Land of Lingering Light"
+    }
+  }
+}
