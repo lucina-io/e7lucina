@@ -932,6 +932,10 @@ const heroes = [
     value: "Mediator Kawerik",
   },
   {
+    label: "Mei Lin",
+    value: "Mei Lin",
+  },
+  {
     label: "Melany",
     value: "Melany",
   },
