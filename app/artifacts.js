@@ -372,6 +372,10 @@ const artifacts = [
     value: "Firm Shield",
   },
   {
+    label: "Flame Dragon's Jewel",
+    value: "Flame Dragon's Jewel",
+  },
+  {
     label: "Flawless Garments",
     value: "Flawless Garments",
   },
